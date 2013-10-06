@@ -38,7 +38,7 @@
 	font-size: 85%;
 	line-height: 1.4em;
 	font-family: Verdana, Helvetica, Arial, sans-serif; 
-	font-size: 14pt;
+	font-size: 10pt;
 }
 
   #toc ul {
@@ -717,9 +717,9 @@
   }
 
   #toc {
-	position: absolute;
-	display: block;
-	border: 1px solid #F22;
+	/*position: absolute;*/
+	/*display: block;*/
+	/*border: 1px solid #F22;*/
 	padding: 3px 8px 3px 8px;
 /*	left: 10px;
 	top: 40px;
