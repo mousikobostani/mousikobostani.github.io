@@ -734,13 +734,14 @@
   }
 
   #table-of-contents {
+      /*This sidebar*/
 	position: fixed;
 	display: block;
 	/*left: 10px;*/
         left: 10px;
 	top: 80px;
 	/*width: 210px;*/
-        width: 410px;
+        width: 230px;
 	min-height:60px;
 	max-height:85%;
 
