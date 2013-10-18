@@ -1,0 +1,16 @@
+
+Files Included in this archive
+------------------------------
+cgi-lib.pl         library routines to deal with environment variables.
+
+search.html        insert this code into your HTML page where you
+                   want the search to appear. Make changes as needed
+
+search_define.pl   library routines for the program. Make changes to
+                   this file!
+
+search_engine.cgi  the actual program. Make changes to this file!
+                   be sure to issue the unix command:
+
+                      chmod 755 search_engine.cgi
+
