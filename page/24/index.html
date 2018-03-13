@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Καλώς ήλθατε</title>
+  <meta property="og:title" content="Καλώς ήλθατε" />
+  <meta name="twitter:title" content="Καλώς ήλθατε" />
+  <meta name="description" content="Το Μουσικό Μποστάνι είναι μια ανοιχτή παρέα φίλων που μαθαίνει και παίζει μουσική, πίνοντας και διασκεδάζοντας. Έχει ως κύρια έδρα την Ηγουμενίτσα, και αποτελείται απο ντόπιους, Βλάχους, Αρβανίτες, Αρβανιτόβλαχους, Καραγκουνόβλαχους, Βλαχοκαραγκούνηδες, Σαρακατσάνους, ΜικραΑσιάτες, Μακεδόνες, Κρητικούς, Ικαριώτες, Πελλοπονήσιους, Κερκυραίους, Σαγιαδινούς, Σουλιώτες, Σαμιώτες μπασταρδέματα μεταξύ των παραπάνω φυλών, διάφορους άλλους και είναι πάντα ανοιχτό σε όλες τις φυλές.">
+  <meta property="og:description" content="Το Μουσικό Μποστάνι είναι μια ανοιχτή παρέα φίλων που μαθαίνει και παίζει μουσική, πίνοντας και διασκεδάζοντας. Έχει ως κύρια έδρα την Ηγουμενίτσα, και αποτελείται απο ντόπιους, Βλάχους, Αρβανίτες, Αρβανιτόβλαχους, Καραγκουνόβλαχους, Βλαχοκαραγκούνηδες, Σαρακατσάνους, ΜικραΑσιάτες, Μακεδόνες, Κρητικούς, Ικαριώτες, Πελλοπονήσιους, Κερκυραίους, Σαγιαδινούς, Σουλιώτες, Σαμιώτες μπασταρδέματα μεταξύ των παραπάνω φυλών, διάφορους άλλους και είναι πάντα ανοιχτό σε όλες τις φυλές.">
+  <meta name="twitter:description" content="Το Μουσικό Μποστάνι είναι μια ανοιχτή παρέα φίλων που μαθαίνει και παίζει μουσική, πίνοντας και διασκεδάζοντας. Έχει ως κύρια έδρα την Ηγουμενίτσα, και αποτελείται απο ντόπιους, Βλάχους, Αρβανίτες, …">
+  <meta name="author" content="Aris Bezas"/>
+  <link href='http://mousikobostani.gitlab.io/static/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://mousikobostani.gitlab.io/img/avatar-icon.png" />
+  <meta name="twitter:image" content="http://mousikobostani.gitlab.io/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@igoumeninja" />
+  <meta name="twitter:creator" content="@igoumeninja" />
+  <meta property="og:url" content="http://mousikobostani.gitlab.io/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Μουσικό Μποστάνι" />
+
+  <meta name="generator" content="Hugo 0.36.1" />
+  <link rel="canonical" href="http://mousikobostani.gitlab.io/" />
+  <link rel="alternate" href="http://mousikobostani.gitlab.io/index.xml" type="application/rss+xml" title="Μουσικό Μποστάνι">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="http://mousikobostani.gitlab.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://mousikobostani.gitlab.io/css/highlight.min.css" /><link rel="stylesheet" href="http://mousikobostani.gitlab.io/css/codeblock.css" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://mousikobostani.gitlab.io/">Μουσικό Μποστάνι</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Αρχείο" href="/post/archive/">Αρχείο</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Λέξεις Κλειδιά" href="/post/tagcloud/">Λέξεις Κλειδιά</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+</nav>
+
+
+
+
+    
+  
+  
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              <h1>Μουσικό Μποστάνι</h1>
+                
+                  
+                    <hr class="small">
+                    <span class="page-subheading">καλλιεργούνται πωγωνίσια, καρσιλαμάδες, semai κ.α.</span>
+                  
+                
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+  <div role="main" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+          <div class="well">
+            <p>Το Μουσικό Μποστάνι είναι μια ανοιχτή παρέα φίλων που μαθαίνει και παίζει μουσική, πίνοντας και διασκεδάζοντας. Έχει ως κύρια έδρα την Ηγουμενίτσα, και αποτελείται απο ντόπιους, Βλάχους, Αρβανίτες, Αρβανιτόβλαχους, Καραγκουνόβλαχους, Βλαχοκαραγκούνηδες, Σαρακατσάνους, ΜικραΑσιάτες, Μακεδόνες, Κρητικούς, Ικαριώτες, Πελλοπονήσιους, Κερκυραίους, Σαγιαδινούς, Σουλιώτες, Σαμιώτες μπασταρδέματα μεταξύ των παραπάνω φυλών, διάφορους άλλους και είναι πάντα ανοιχτό σε όλες τις φυλές.</p>
+
+<p><a href='https://postimg.org/image/or7tomln9/' target='_blank'><img src='https://s26.postimg.org/xz025bspl/mousiko_Bostani.jpg' border='0' alt='mousiko_Bostani'/></a></p>
+
+          </div>
+        
+
+        <div class="posts-list">
+          
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/san-pas-sta-xena/">
+                <h2 class="post-title">Σαν πας στα ξένα</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Σαν πας στα ξένα μάτια μου, μην κάνεις ένα χρόνο,
+γιατί δεν τονε νταγιαντώ, της ξενιτιάς τον πόνο
+Σαν πας στα ξένα, πάρε και μένα,
+πάρε και μένα για συντροφιά
+Μέρα δεν κάνω δίχως σου και χρόνο πώς να κάμω
+Χωρίς εσένα αγάπη μου, γρήγορα θα πεθάνω
+Μακριά σαν θα \`σαι να με θυμάσαι,
+να με θυμάσαι παντοτινά.
+Σαν πας στα ξένα, πάρε και μένα,
+πάρε και μένα για συντροφιά
+                  <a href="http://mousikobostani.gitlab.io/post/san-pas-sta-xena/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/simera-einai-pashalia/">
+                <h2 class="post-title">Σημερα είναι Πασχαλιά, Γιωργάκη</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  <p class="verse">
+Σήμερα είναι πασχαλιά<br />
+Γιωργάκη, Γιωργάκη,<br />
+είναι γιορτή μεγάλη<br />
+Γιωργάκη μου λεβέντη.<br />
+<br />
+Σήμερα ψήνουμε τ’ αρνιά<br />
+Γιωργάκη, Γιωργάκη,<br />
+λέμε Χριστος Ανέστη<br />
+Γιωργάκη μου λεβεντη.<br />
+<br />
+Σήμερα αλλάζουν τα παιδιά<br />
+Γιωργάκη, Γιωργάκη,<br />
+και βγαίνουν στο σεργιάνι<br />
+Γιωργάκη μου λεβέντη.<br />
+<br />
+Και συ Γιώργη μ’ δεν φάνηκες<br />
+Γιωργάκη, Γιωργάκη,<br />
+να βγεις να σεργιανήσεις<br />
+Γιωργάκη μου λεβέντη.<br />
+</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/7Nn_f6lg10s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/">ήπειρος</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/">συρτός-στα-3</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/stella/">
+                <h2 class="post-title">Στέλλα</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  <p class="verse">
+Στέλλα μωρ' Στέλλα κακιά κοπέλα<br />
+δεν το 'πραξες καλά, παράτησες<br />
+τον άντρα σ' μωρ' Στέλλα πέρα στα Δολιανά.<br />
+<br />
+Καρότσα στολισμένη μωρ' Στέλλα<br />
+με τέσσερα άλογα ήρθαν για να σε πάρουν<br />
+μωρ' Στέλλα μες στα χαράματα.<br />
+<br />
+Δεν φταίω εγώ μάνα, μάνα μωρ' μάνα,<br />
+η άπιστη καρδιά π' αγάπησε<br />
+με μπέσα μέσα στα Δολιανά.<br />
+<br />
+Πάησαν οι πάπιες πάησαν οι χήνες<br />
+πάησαν κι οι κλωσαριές<br />
+κι η Στέλλα η χαδιάρα είναι στις ρεματιές.<br />
+<br />
+<br />
+</p>
+
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/">ήπειρος</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/">συρτός-στα-3</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/sti-vrisi-sta-tsiritsena/">
+                <h2 class="post-title">Στη Βρυση Στα Τσεριτσανα</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Τραγούδι ιστορικό με προέλευση από το Πωγώνι Ηπείρου.
+Ο ρυθμός του κομματιού είναι στους δύο πρώτους στίχους 3/4 ενώ στους δύο τελευταίους κάθε στροφής είναι 2/4 και χορεύεται στα βήματα «ΙΔΙΟΤΥΠΟΥ ΧΟΡΟΥ».
+- Kalrino Μi
+Mi - re# - mi - fa - si - la - mi -
+fa#-la-si-do#-mi
+- Kaval fa
+Στη βρύση στα Τσερί(νι)τσανα
+στο πλάτανο στη από τη χώρα,
+μπουλούκ’ (μ)πασά… άϊ γεια σας παιδιά
+μπουλούκ’ (μ)πασάδες κάθονταν.
+                  <a href="http://mousikobostani.gitlab.io/post/sti-vrisi-sta-tsiritsena/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/">ήπειρος</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/sti-smyrni-mes-tin-armenia/">
+                <h2 class="post-title">Στη Σμύρνη μες στην Αρμενιά</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  <p class="verse">
+Στη Σμύρνη μες στην Αρμενιά έχω κι εγώ κι ορίζω<br />
+ένα κλωνί βασιλικό νερό να το ποτίζω.<br />
+<br />
+Την καρδιά μ’ έχεις καμένη και δε με πονείς,<br />
+λυπήσου με και πάψε να με βασανείς.<br />
+<br />
+Δεν ημπορώ τα μάτια μου ψηλά να τα σηκώσω<br />
+και της καημένης μου καρδιάς παρηγοριά να δώσω.<br />
+<br />
+Θέλεις να πεθάνω να με φάει η μαύρη γης,<br />
+άλλαξε τη γνώμη σ’ κι άρχισε να με πονείς.<br />
+<br />
+<br />
+</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/RhJTVwakw5o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/">καλαματιανό</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/sti-kentimenh-sou-podia/">
+                <h2 class="post-title">Στην κεντημένη σου ποδιά</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Στην κεντημένη σου ποδιά, μωρή βλάχα,
+στην κεντημένη σου ποδιά, μωρή βλάχα.
+Μωρή βλάχα, βλαχοπούλα κι αρβανιτοπούλα,
+μωρή βλάχα, βλαχοπούλα και τσελιγκοπούλα.
+Λαλούν αηδόνια και πουλιά, μωρή βλάχα,
+λαλούν αηδόνια και πουλιά, μωρή βλάχα.
+Μωρή βλάχα, βλαχοπούλα κι αρβανιτοπούλα,
+μωρή βλάχα, βλαχοπούλα και τσελιγκοπούλα.
+Σαν μπαίνεις μέσα στο χορό, μωρή βλάχα,
+σαν μπαίνεις μέσα στο χορό, μωρή βλάχα.
+Μωρή βλάχα, βλαχοπούλα εσύ τα ξέβρεις ούλα,
+μωρή βλάχα, βλαχοπούλα κι αρβανιτοπούλα.
+                  <a href="http://mousikobostani.gitlab.io/post/sti-kentimenh-sou-podia/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/">ήπειρος</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/sto-pa-kai-sto-xanaleo/">
+                <h2 class="post-title">Στο &#39;πα και στο ξαναλέω</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  <p class="verse">
+Στο ‘πα και στο ξαναλέω<br />
+στο γιαλό μην κατεβείς<br />
+κι ο γιαλός κάνει φουρτούνα<br />
+και σε πάρει και διαβείς<br />
+<br />
+Κι αν με πάρει που με πάει<br />
+κάτω στα βαθιά νερά<br />
+κάνω το κορμί μου βάρκα<br />
+τα χεράκια μου κουπιά<br />
+το μαντήλι μου πανάκι<br />
+μπαινοβγαίνω στη στεριά<br />
+<br />
+Στο ‘πα και στο ξαναλέω<br />
+μη μου γράφεις γράμματα<br />
+γιατί γράμματα δεν ξέρω<br />
+και με πιάνουν κλάματα<br />
+</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/x0Nye7w-6oI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/O1IAn0nYiIU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+
+<p>score @ <a href="https://drive.google.com/file/d/0B3tOReQ7XNBfZDNaZ1Y0U0ZYMUk/view">http://oudpartitures.blogspot.gr/</a></p>
+
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/">αργός-συρτός</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/muhayyer-kurdi/">muhayyer-kurdi</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/syre-na-peis-sti-mana-sou/">
+                <h2 class="post-title">Σύρε να πεις στη μάνα σου</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Σύρε να πεις της μάνας σου
+να κάνει κι άλλη γέννα
+να κάψει κι αλλουνού καρδιά
+ως έκαψε και μένα.
+Αμάν γιάλα όπα γιάλα
+τα ματάκια σου τα μαύρα
+τα ματάκια σου τα μαύρα
+που είναι όλο φωτιά και λαύρα.
+Μελαχρινό με τις ελιές
+και με τα μαύρα μάτια
+έκανες την καρδούλα μου
+σαράντα δυο κομμάτια.
+Βλέπεις εκείνο το βουνό
+που άναψε και καίει;
+δεν είν’ φωτιά, δεν είν’ καπνός,
+                  <a href="http://mousikobostani.gitlab.io/post/syre-na-peis-sti-mana-sou/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%AC%CF%82/">καρσιλαμάς</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/syre-to-pasoumaki-sou/">
+                <h2 class="post-title">Σύρε το πασουμάκι σου</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Σύρε το πασουμάκι σου Ι Τρις
+να δω το ποδαράκι σου
+-Άντε μωρέ ! Στείλε με μάνα για νερό Ι Τρις να σου το φέρω δροσερό Κι αν δεν στο φέρω δροσερό Ι την νιότη μου να μην χαρώ Ι Δις -Εεεεεεπα ! -Άντε ντε ! Μάνα μου παραπάτησα Ι Τρις και το σταμνί μου τσάκισα -Ώωωωωχ Παναγιά μου ! Δεν ήταν παραπάτημα Ι μον' της αγάπης τσάκισμα Ι Δις -Γεια σας Μητσάκια !
+                  <a href="http://mousikobostani.gitlab.io/post/syre-to-pasoumaki-sou/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%B6%CE%B5%CF%8A%CE%BC%CF%80%CE%AD%CE%BA%CE%B9%CE%BA%CE%BF/">ζεϊμπέκικο</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+            <article class="post-preview">
+              <a href="http://mousikobostani.gitlab.io/post/tessera-matia/">
+                <h2 class="post-title">Τέσσερα μάτια δυο καρδιές</h2>
+                
+                
+              </a>
+
+              
+              <div class="post-entry">
+                
+                  Τέσσερα μάτια δυο καρδιές | 2x
+Όταν αγαπηθούνε | 2x
+Καλύτερα στη μαύρη γη | 2x
+Παρά να χωριστούνε | 2x
+Για σένα και για μένα δοθήκανε οι καημοί
+Τα βάσανα κι οι πόνοι κι οι αναστεναγμοί
+Για σένα και για μένα και όχι γι άλλονα
+δοθήκανε οι πόνοι και τα παράπονα
+Εάν εσύ δεν ήσουνα | 2x
+εγώ δεν θ’ αγαπούσα | 2x
+έρωτα δεν θα γνώριζα | 2x
+                  <a href="http://mousikobostani.gitlab.io/post/tessera-matia/" class="post-read-more">[Περισσοτερα]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
+                
+                  #<a href="http://mousikobostani.gitlab.io//tags/%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%81%CE%B9/">εννιάρι</a>&nbsp;
+                
+                </span>
+              
+            </article>
+          
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:igoumeninja@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/igoumeninja" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/igoumeninja" title="Instagram">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="http://mousikobostani.gitlab.io/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="mousikobostani.gitlab.io">Aris Bezas</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2018
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="http://mousikobostani.gitlab.io/">Μουσικό Μποστάνι</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.36.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="http://mousikobostani.gitlab.io/js/main.js"></script>
+<script src="http://mousikobostani.gitlab.io/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="http://mousikobostani.gitlab.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+  </body>
+</html>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Βιβλιογραφία on Μουσικό Μποστάνι</title>
+    <link>http://mousikobostani.github.io/tags/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1/</link>
+    <description>Recent content in Βιβλιογραφία on Μουσικό Μποστάνι</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com</managingEditor>
+    <webMaster>igoumeninja@gmail.com</webMaster>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mousikobostani.github.io/tags/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Βιβλιογραφία</title>
+      <link>http://mousikobostani.github.io/post/bibliography/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/bibliography/</guid>
+      <description> Ρωμηοί Συνθέτες της Πόλης του Χρίστου Τσιαμούλη και του Παύλου Ερευνίδη Το Τουρκικο Μακάμ του Μουρατ Αϋντεμιρ Οι Μουσικοί Τρόποι στην Ανατολική Μεσόγειο του Μαριου Μαυροειδή Το αστικό λαϊκό τραγούδι στην Ελλάδα του Μεσοπολέμου (Ευγένιος Βούλγαρης, Βασίλης Βανταράκης) To Τουμπελέκι και οι Ρυθμοί του Λευτέρη Παύλου Λαική Κιθάρα του Δημήτρη Μυστακίδη Οι Λαικοί Δρόμοι του Χρήστου Παγιάτη Εισαγωγή στην Ελληνική Παραδοσιακή Μουσική του Μαριου Μαυροειδή το δημοτικό τραγούδι του Αντώνη Δελώνη  </description>
+    </item>
+    
+  </channel>
+</rss>

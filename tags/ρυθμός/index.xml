@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ρυθμός on Μουσικό Μποστάνι</title>
+    <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
+    <description>Recent content in Ρυθμός on Μουσικό Μποστάνι</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com</managingEditor>
+    <webMaster>igoumeninja@gmail.com</webMaster>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ζωναράδικος (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/zonaradikos/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/zonaradikos/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Μαντηλάτος (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/mantilatos/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Συγκαθιστός (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/sygkathistos/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/sygkathistos/</guid>
+      <description>Την ονομασία του οφείλει στο ότι το βήμα του χορευτή ημικάθεται μια στο δεξιό και μια στο αριστερό πόδι. Οι συγκαθιστοί σκοποί είναι πολλοί σε κλίμακες, τρόπους και αρχιτεκτονική μελωδιών. Χορεύονται κατά ζεύγη αντικριστά με μεγάλη ποικιλία χορευτικών σχημάτων και συνοδεύονται από ενθουσιώδη επιφωνήματα.
+Τον καλύτερο προσδιορισμό της λέξης ‘συγκαθιστός’ χορός ,κατά την ταπεινή μας γνώμη, τον δίνουν οι Βλάχοι, οι Γρεβενιώτες, οι Χασιώτες, κλπ περισσότερο την Πίνδο, οι οποίοι προσονομάζουν τον χορό με πληθυντικό αριθμό: «Συγκαθιστά, ή Συγκαστά’, ή και ‘Σκόρπια’.</description>
+    </item>
+    
+    <item>
+      <title>Μπαϊντούσκα Θράκης (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/mpaintouska-rhythm/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/mpaintouska-rhythm/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
