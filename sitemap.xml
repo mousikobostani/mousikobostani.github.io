@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/perdikoula/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/perdikoula-hmerona/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/enas-ahtos-kathotane/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -2371,7 +2381,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2623,7 +2633,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2731,7 +2741,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2929,7 +2939,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</loc>
-    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
