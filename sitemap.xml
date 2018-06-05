@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/skatompampas/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/hmerologio-ampelou/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/ferahfeza-longa/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +30,11 @@
   <url>
     <loc>http://mousikobostani.github.io/post/enas-ahtos-kathotane/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/bakayokos/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2158,6 +2173,11 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/post/krasi/</loc>
+    <lastmod>2011-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2166,6 +2186,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/acemasiran/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/aka/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2392,7 +2418,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2483,6 +2509,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</loc>
     <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BC%CF%80%CE%AD%CE%BB%CE%B9/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
