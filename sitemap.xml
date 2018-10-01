@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/zonaradikos-vasilaris/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/grhgora-gia-thn-neratzia/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/auta-ta-mavra-matia/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/marouli/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/se-perivoli-monahos/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
@@ -20,11 +40,6 @@
   <url>
     <loc>http://mousikobostani.github.io/post/skatompampas/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/hmerologio-ampelou/</loc>
-    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1693,12 +1708,22 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/post/search/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/apano-sti-triantafyllia/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/apopse-i-poulia-malone/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/archive/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1938,11 +1963,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/mantilatos/</loc>
-    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/sygkathistos/</loc>
     <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url>
@@ -2178,8 +2198,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/archive/</loc>
-    <lastmod>2016-10-30T00:00:00+00:00</lastmod>
+    <loc>http://mousikobostani.github.io/post/mantilatos/</loc>
+    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2207,6 +2227,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/aka/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/archive/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2433,7 +2459,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2464,6 +2490,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/saz-semai/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/search/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2517,19 +2549,13 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</loc>
     <lastmod>2017-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BC%CF%80%CE%AD%CE%BB%CE%B9/</loc>
-    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2560,12 +2586,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%BF/</loc>
-    <lastmod>2016-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2637,7 +2657,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B6%CF%89%CE%BD%CE%B1%CF%81%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%82/</loc>
-    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2655,7 +2675,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B8%CF%81%CE%AC%CE%BA%CE%B7/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2793,7 +2813,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2865,7 +2885,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2930,6 +2950,12 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2973,7 +2999,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

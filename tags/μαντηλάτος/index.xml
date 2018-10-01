@@ -78,15 +78,6 @@
     </item>
     
     <item>
-      <title>Μαντηλάτος (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/mantilatos/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Σήκω Κουκουνούδα</title>
       <link>http://mousikobostani.github.io/post/sikokoukounouda/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
@@ -100,6 +91,15 @@
 Σήκω κουκουνούδα μ’ έρχεται η μπάτης σ’.
 Δεν μπορώ μάνα μ’ δεν μπορώ με πονούν τα κόκκαλα,
 δεν μπορώ μάνα μ’ δεν μπορώ με πονούν τα κόκκαλα.</description>
+    </item>
+    
+    <item>
+      <title>Μαντηλάτος (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/mantilatos/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
+      <description></description>
     </item>
     
   </channel>

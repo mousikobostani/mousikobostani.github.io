@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Μαντηλάτος (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/mantilatos/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Συγκαθιστός (ο ρυθμός)</title>
       <link>http://mousikobostani.github.io/post/sygkathistos/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
@@ -47,6 +38,15 @@
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/mpaintouska-rhythm/</guid>
       <description>  </description>
+    </item>
+    
+    <item>
+      <title>Μαντηλάτος (ο ρυθμός)</title>
+      <link>http://mousikobostani.github.io/post/mantilatos/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
+      <description></description>
     </item>
     
   </channel>
