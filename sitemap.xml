@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/mustear-pesrev-nikolaki/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/vathi-mperati/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/mahur-ss-refik/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/zagoritika-havadia/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -2350,7 +2365,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/mahur/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2374,7 +2389,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/modal/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2387,6 +2402,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/muhayyer-kurdi/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/mustear/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2428,7 +2449,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/ottoman/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2458,13 +2479,13 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/pesrev/</loc>
-    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2494,7 +2515,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/saz-semai/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2554,7 +2575,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2650,7 +2671,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B6%CE%B1%CE%B3%CE%BF%CF%81%CE%AF%CF%83%CE%B9%CE%BF/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
