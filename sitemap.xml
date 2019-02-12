@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/temp/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/archive_alphabetically/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/karcigiar-syrto-mastika/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/pepeli-koftos-pogonisio/</loc>
+    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/sevdas/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/touto-to-kalokairaki/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/mamadu-kai-nikoko/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -508,11 +538,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/touto-to-kalokairaki/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/tsakitzis/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
   </url>
@@ -1008,21 +1033,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/nte-vre-nte/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/premeti-vinji/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -1054,6 +1064,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/apo-xeno-topo/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1203,6 +1218,11 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/milo-mou-kai-mantarini/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -1234,6 +1254,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/neratzia/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/nte-vre-nte/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1573,11 +1598,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</loc>
-    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/den-mporo-manoula/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -1604,6 +1624,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/to-mathes-dolia-mana/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -2254,7 +2279,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2272,7 +2297,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/archive/</loc>
-    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2362,6 +2387,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/karcigar/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/karcigiar/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2505,7 +2536,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2571,7 +2602,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2595,7 +2626,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2931,7 +2962,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
-    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3057,7 +3088,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

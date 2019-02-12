@@ -7,10 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sandbox</title>
+      <link>http://mousikobostani.github.io/post/temp/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/temp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Αρχείο με αλφαβητική σειρά</title>
+      <link>http://mousikobostani.github.io/post/archive_alphabetically/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/archive_alphabetically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansambl Mastika - Syrto (Karcigiar)</title>
+      <link>http://mousikobostani.github.io/post/karcigiar-syrto-mastika/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/karcigiar-syrto-mastika/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Πέπελι κοφτό πωγωνίσιο</title>
+      <link>http://mousikobostani.github.io/post/pepeli-koftos-pogonisio/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/pepeli-koftos-pogonisio/</guid>
+      <description>     </description>
+    </item>
+    
+    <item>
+      <title>Σεβντάς</title>
+      <link>http://mousikobostani.github.io/post/sevdas/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/sevdas/</guid>
+      <description>Αχ μωρέ σεβντά, αχ καρασεβντά,
+πως μ’ έχεις καταντήσει το μαύρο,
+αχ πως μ’ έχεις καταντήσει.
+Αχ εικοσιδυό χρονών παιδί
+στα μαύρα μ’ έχεις ντύσει το μαύρο
+αχ στα μαύρα μ’ έχεις ντύσει.
+Ωρε σεβντάδες ηταν δώδεκα,
+ήταν κι ένας περίσσιος το μαύρο
+αχ ήταν κι ένας περίσσιος.
+Αχ από σεβντά δεν ήξερα,
+δεν ήμουν μαθημένο το μαύρο
+δεν ήμουν μαθημένο.
+Ωρε και τώρα που αγάπησα,
+βρέθηκα μπερδεμένο το μαύρο</description>
+    </item>
+    
+    <item>
+      <title>Τούτο το καλοκαιράκι</title>
+      <link>http://mousikobostani.github.io/post/touto-to-kalokairaki/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/touto-to-kalokairaki/</guid>
+      <description>Τούτο το, μαύρα μου μάτια.
+Τούτο το καλοκαιράκι.
+Τούτο το καλοκαιράκι,
+κυνηγούσα’ να πουλάκι.
+Κυνηγούσα, μαύρα μου μάτια,
+κυνηγούσα προσπαθούσα.
+Κυνηγούσα προσπαθούσα,
+να το πιάσω δεν μπορούσα.
+Κι’ έστησα, μαύρα μου μάτια
+έστησα, τα ξόβεργά μου.
+Εστησα τα ξόβεργά μου,
+κι ήρθε το πουλί κοντά μου.
+Κι ήρθε το πουλί κοντά μου
+κι έκατσε στην αγκαλιά μοθ
+  </description>
+    </item>
     
     <item>
       <title>MamaDu &amp; NikoKo</title>
@@ -18,15 +99,24 @@
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/mamadu-kai-nikoko/</guid>
-      <description>Mαμαντου και Nικοκο κι η φαμίλια ειν΄εδω
-γνωριστήκανε παλιά σ’ ένα μπαρ καποια βραδιά
-κι από τοτε ειν’ μαζι χερι χερι στη ζωή
-και να ‘μαστε τωρα εδω βρε στης Ντουσσας το χωριό
-στου Λάμπρου τη βαφτιση να τα πιούμ’ όλοι μαζι
-για το Λαμπρο το μικρό ενα θαύμα αληθινό
-με Παντέλο δυνατό, τον καλύτερο αδερφο
-Μαμαντου και Νικοκο κι η φαμίλια ειν’ εδω
-Μαμαντού και Νικοκό κι ειμαστ’ όλοι μας εδω</description>
+      <description>Mαμαντου και Nικοκο
+κι η φαμίλια ειν΄εδω
+γνωριστήκανε παλιά
+σ’ ένα μπαρ καποια βραδιά
+κι από τοτε ειν’ μαζι
+χερι χερι στη ζωή
+*και να ‘μαστε τωρα εδω*
+*βρε στης Ντουσσας το χωριό*
+*στου Λάμπρου τη βαφτιση*
+*να τα πιούμ’ όλοι μαζι*
+για το Λαμπρο το μικρό
+ενα θαύμα αληθινό
+με Παντέλο δυνατό,
+τον καλύτερο αδερφο
+Μαμαντου και Νικοκο
+κι η φαμίλια ειν’ εδω
+Μαμαντού και Νικοκό
+κι ειμαστ’ όλοι μας εδω</description>
     </item>
     
     <item>
@@ -1399,31 +1489,6 @@ A turn is a short figure consisting of the note above the one indicated, the not
 Μέσα στους ποδαράδες (χ2)
 Θα ‘ναι αυτός που αγαπάς (χ3)
 Με τους πολλούς παράδες (χ2)</description>
-    </item>
-    
-    <item>
-      <title>Τούτο το καλοκαιράκι</title>
-      <link>http://mousikobostani.github.io/post/touto-to-kalokairaki/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/touto-to-kalokairaki/</guid>
-      <description>Φέτο το καλοκαιράκι
-κυνηγούσα ένα πουλάκι,
-κυνηγούσα λαχταρούσα
-να το πιάσω δεν μπορούσα.
-Άντε κι έστησα την ξόβεργά μου
-κι ήρθε το πουλί κοντά μου.
-Από την πολύ χαρά μου
-ήθελα για να πετάξω
-και στους ουρανούς να φτάσω,
-άγγελο να κατεβάσω
-και την θάλασσα ν΄ αδειάσω
-να την κάνω περιβόλι.
-Άντε να φυτέψω λεμονίτσες,
-όμορφες τριανταφυλλίτσες.
-Την Δευτέρα τις φυτεύω
-και την Τρίτη τις κλαδεύω,
-άντε την Τετάρτη βγάζουν φύλλα</description>
     </item>
     
     <item>
@@ -3357,71 +3422,6 @@ Try it</description>
     </item>
     
     <item>
-      <title>Aπο τα γλυκά σου μάτια</title>
-      <link>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</guid>
-      <description>Από τα γλυκά σου μάτια
-τρέχει αθάνατο νερό σεβντίμ αμάν
-και σου γύρεψα λιγάκι
-και δε μου &#39;δωσες να πιω
-Ολμάζ πιπίνι μου Ολμάζ
-να με πεθάνεις πολεμάς
-να με πεθάνεις πολεμάς
-Ολμάζ πιπίνι μου Ολμάζ
-Είπα σου μη με πειράζεις
-κι άσε με στο χάλι μου σεβντίμ αμάν
-και το νου μου τον επήρες
-από το κεφάλι μου
-Έλα να πάμε μάτια μου
-κι ας φέρουν τα κομμάτια μου</description>
-    </item>
-    
-    <item>
-      <title>Mάτια σαν και τα δικά σου</title>
-      <link>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</guid>
-      <description>Μάτια σαν και τα δικά σου
-δεν υπάρχουν στο ντουνιά
-κι όποιος τα γλυκοφιλήσει
-χάρο δε φοβάται πια
-Άσε με να τα φιλήσω
-μην και βρω τη γιατρειά
-για να βγάλω το σαράκι
-που μου τρώει την καρδιά
-Δεν μπορώ να κλαίω πια
-μαράθηκε η καρδιά μου
-και άδικα για σένανε
-τρέχουν τα δάκρυά μου
-  </description>
-    </item>
-    
-    <item>
-      <title>Nτε βρε ντε</title>
-      <link>http://mousikobostani.github.io/post/nte-vre-nte/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/nte-vre-nte/</guid>
-      <description>Να \`χα μια πέτρα μάλαμα
-άιντε ντε ντε βρε ντε
-να σου \`κανα βραχιόλια καλέ
-άιντε ντε βρε ντε
-η κόρη θέλει με τα με.
-Να βάζεις τα χεράκια σου
-άιντε ντε ντε βρε ντε
-που \`ναι άσπρα σαν τα χιόνια καλέ
-άιντε ντε ντε βρε ντε
-πάντρεψε με μάνα ντε.
-Να \`μουνα πέτρα και μυστρί
-άιντε ντε ντε βρε ντε
-και λάσπη να με χτίζεις καλέ
-άιντε ντε ντε βρε ντε</description>
-    </item>
-    
-    <item>
       <title>Premeti vinji un päshe</title>
       <link>http://mousikobostani.github.io/post/premeti-vinji/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
@@ -3555,6 +3555,28 @@ Kαρα Nταή το λένε
 Δε μου τη δανείζεις δεν μου την πουλάς
 την ελίτσα που &#39;χεις, φως μου, και με τυραννάς
 Δε σου τη δανείζω, δεν σου την πουλώ</description>
+    </item>
+    
+    <item>
+      <title>Απο τα γλυκά σου μάτια</title>
+      <link>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/apo-ta-glyka-sou-matia/</guid>
+      <description>Από τα γλυκά σου μάτια
+τρέχει αθάνατο νερό σεβντίμ αμάν
+και σου γύρεψα λιγάκι
+και δε μου &#39;δωσες να πιω
+Ολμάζ πιπίνι μου Ολμάζ
+να με πεθάνεις πολεμάς
+να με πεθάνεις πολεμάς
+Ολμάζ πιπίνι μου Ολμάζ
+Είπα σου μη με πειράζεις
+κι άσε με στο χάλι μου σεβντίμ αμάν
+και το νου μου τον επήρες
+από το κεφάλι μου
+Έλα να πάμε μάτια μου
+κι ας φέρουν τα κομμάτια μου</description>
     </item>
     
     <item>
@@ -4081,6 +4103,27 @@ Tης καρτιάς μου τα κλειδάκια πάρι τα κι άνοι�
     </item>
     
     <item>
+      <title>Μάτια σαν και τα δικά σου</title>
+      <link>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/matia-san-kai-ta-dika-sou/</guid>
+      <description>Μάτια σαν και τα δικά σου
+δεν υπάρχουν στο ντουνιά
+κι όποιος τα γλυκοφιλήσει
+χάρο δε φοβάται πια
+Άσε με να τα φιλήσω
+μην και βρω τη γιατρειά
+για να βγάλω το σαράκι
+που μου τρώει την καρδιά
+Δεν μπορώ να κλαίω πια
+μαράθηκε η καρδιά μου
+και άδικα για σένανε
+τρέχουν τα δάκρυά μου
+  </description>
+    </item>
+    
+    <item>
       <title>Μήλο μου και μανταρίνι</title>
       <link>http://mousikobostani.github.io/post/milo-mou-kai-mantarini/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
@@ -4229,6 +4272,28 @@ Tης καρτιάς μου τα κλειδάκια πάρι τα κι άνοι�
 πως μοσχο-, μοσχοβολάς καημένο.
 Αχ βρε νεραντζιά εσύ θα με τρελάνεις,
 με τα να-, τα νάζια που μου κάνεις.</description>
+    </item>
+    
+    <item>
+      <title>Ντε βρε ντε</title>
+      <link>http://mousikobostani.github.io/post/nte-vre-nte/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/nte-vre-nte/</guid>
+      <description>Να \`χα μια πέτρα μάλαμα
+άιντε ντε ντε βρε ντε
+να σου \`κανα βραχιόλια καλέ
+άιντε ντε βρε ντε
+η κόρη θέλει με τα με.
+Να βάζεις τα χεράκια σου
+άιντε ντε ντε βρε ντε
+που \`ναι άσπρα σαν τα χιόνια καλέ
+άιντε ντε ντε βρε ντε
+πάντρεψε με μάνα ντε.
+Να \`μουνα πέτρα και μυστρί
+άιντε ντε ντε βρε ντε
+και λάσπη να με χτίζεις καλέ
+άιντε ντε ντε βρε ντε</description>
     </item>
     
     <item>
@@ -5367,21 +5432,6 @@ Pentatonic scale - WikipediaA pentatonic scale is a musical scale or mode with f
     </item>
     
     <item>
-      <title>Tου Ντούλα η μάνα</title>
-      <link>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</guid>
-      <description>Τίνος μανούλα θλίβεται ,τίνος μανούλα κλέγει,
-του Ντουλα η μάνα θλίβεται ,του Ντουλα η μάνα κλέγει.
-Σήμερα Ντούλα μ&#39; Πασχαλιά , σήμερα πανηγύρι (μια Πασχαλιά και μια λαμπρή μια πίσιμην ημέρα),
-αλλάζουν μάνες τα παιδιά κι οι πεθερές τις νύφες.
-Κι &#39;συ Ντουλα μ&#39; στη φυλακη, στα σκοτεινα μπουντρούμια (στις φυλακες στις σιδερένιες πόρτες).
-Ντουλα μ&#39; δεν αντριωνεσαι τα σιδερα να σπάσεις,
-να πάρεις δίπλα τα βουνά,κι ολορθα τα λαγκάδια (δίπλα τα κορφοβούνια),</description>
-    </item>
-    
-    <item>
       <title>Δεν μπορώ μανούλα</title>
       <link>http://mousikobostani.github.io/post/den-mporo-manoula/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
@@ -5498,6 +5548,21 @@ Pentatonic scale - WikipediaA pentatonic scale is a musical scale or mode with f
 μωρ&#39; γιαλένια κρουσταλένια
 Τούρκα είσαι για Ρωμιά,
 κόρη, κόρη διαμαντένια.</description>
+    </item>
+    
+    <item>
+      <title>Του Ντούλα η μάνα</title>
+      <link>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/tou-ntoula-i-mana/</guid>
+      <description>Τίνος μανούλα θλίβεται ,τίνος μανούλα κλέγει,
+του Ντουλα η μάνα θλίβεται ,του Ντουλα η μάνα κλέγει.
+Σήμερα Ντούλα μ&#39; Πασχαλιά , σήμερα πανηγύρι (μια Πασχαλιά και μια λαμπρή μια πίσιμην ημέρα),
+αλλάζουν μάνες τα παιδιά κι οι πεθερές τις νύφες.
+Κι &#39;συ Ντουλα μ&#39; στη φυλακη, στα σκοτεινα μπουντρούμια (στις φυλακες στις σιδερένιες πόρτες).
+Ντουλα μ&#39; δεν αντριωνεσαι τα σιδερα να σπάσεις,
+να πάρεις δίπλα τα βουνά,κι ολορθα τα λαγκάδια (δίπλα τα κορφοβούνια),</description>
     </item>
     
     <item>

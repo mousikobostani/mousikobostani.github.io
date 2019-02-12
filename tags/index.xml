@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://mousikobostani.github.io/tags/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Archive</title>
       <link>http://mousikobostani.github.io/tags/archive/</link>
-      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/archive/</guid>
       <description></description>
@@ -171,6 +171,15 @@
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/karcigar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karcigiar</title>
+      <link>http://mousikobostani.github.io/tags/karcigiar/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/karcigiar/</guid>
       <description></description>
     </item>
     
@@ -501,7 +510,7 @@
     <item>
       <title>Ήπειρος</title>
       <link>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</guid>
       <description></description>
@@ -1005,7 +1014,7 @@
     <item>
       <title>Πωγωνίσιο</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</guid>
       <description></description>
@@ -1194,7 +1203,7 @@
     <item>
       <title>Συρτός Στα 3</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</guid>
       <description></description>
