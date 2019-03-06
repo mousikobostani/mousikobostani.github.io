@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mousikobostani.github.io/post/temp/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <loc>http://mousikobostani.github.io/post/paramythiotikos/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/sygkathistow-hpeirou/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2278,8 +2283,13 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/post/temp/</loc>
+    <lastmod>2000-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2536,7 +2546,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2602,7 +2612,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2626,7 +2636,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3010,7 +3020,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</loc>
-    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3071,6 +3081,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

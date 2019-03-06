@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://mousikobostani.github.io/tags/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/</guid>
       <description></description>
@@ -510,7 +510,7 @@
     <item>
       <title>Ήπειρος</title>
       <link>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</guid>
       <description></description>
@@ -1086,7 +1086,7 @@
     <item>
       <title>Ρυθμός</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</guid>
       <description></description>
@@ -1179,6 +1179,15 @@
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Συγκαθιστός_ηπείρου</title>
+      <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</guid>
       <description></description>
     </item>
     
