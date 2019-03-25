@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/neratzoula-fountomeni/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/pano-se-psili-rahoula/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -1048,6 +1053,11 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/post/erhomai-kai-si-koimase/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/ehe-geia-panagia/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -1159,11 +1169,6 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/ekklisia-mou-koukloti/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/erhomai-kai-si-koimase/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -2551,7 +2556,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2917,7 +2922,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82/</loc>
-    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3127,7 +3132,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</loc>
-    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
