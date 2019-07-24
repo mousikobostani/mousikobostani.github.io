@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,63 @@
     <item>
       <title></title>
       <link>http://mousikobostani.github.io/tags/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>majore</title>
+      <link>http://mousikobostani.github.io/tags/majore/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/majore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rast</title>
+      <link>http://mousikobostani.github.io/tags/rast/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/rast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>βαλς</title>
+      <link>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>νησιώτικα</title>
+      <link>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>σμυρναΐκα</title>
+      <link>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>συρτός</title>
+      <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
     
@@ -63,15 +117,6 @@
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>συρτός</title>
-      <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
     
@@ -229,15 +274,6 @@
     </item>
     
     <item>
-      <title>νησιώτικα</title>
-      <link>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>κρητικά</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
@@ -324,15 +360,6 @@
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BB%CE%AF%CF%83%CF%84%CE%B5%CF%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rast</title>
-      <link>http://mousikobostani.github.io/tags/rast/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/rast/</guid>
       <description></description>
     </item>
     
@@ -706,15 +733,6 @@
     </item>
     
     <item>
-      <title>σμυρναΐκα</title>
-      <link>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hicazkiar</title>
       <link>http://mousikobostani.github.io/tags/hicazkiar/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
@@ -801,15 +819,6 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/foxtrot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>majore</title>
-      <link>http://mousikobostani.github.io/tags/majore/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/majore/</guid>
       <description></description>
     </item>
     
@@ -936,15 +945,6 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>βαλς</title>
-      <link>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</guid>
       <description></description>
     </item>
     
