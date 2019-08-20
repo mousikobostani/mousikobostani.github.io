@@ -3,37 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/delvino-koftos/</loc>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
+    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/thelo-n-anevo-sta-psila/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%83%CE%B2%CE%BF%CF%82/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/majore/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/rast/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/vals-smyrnhw/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/maleviziotis/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,43 +75,36 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</loc>
+    <loc>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</loc>
+    <loc>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BB%CE%B5%CE%B2%CE%B9%CE%B6%CE%B9%CF%8E%CF%84%CE%B7%CF%82/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/cargah/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/ottoman/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/sirto/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,13 +120,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -122,27 +143,18 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/archive/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -158,18 +170,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/karcigiar/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/pepeli-koftos-pogonisio/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -185,18 +190,16 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/mamadu-kai-nikoko/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/aka/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/mamadu-kai-nikoko/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -217,7 +220,16 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</loc>
     <lastmod>2019-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/modal/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/mustear/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -226,21 +238,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/modal/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/mustear/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/pesrev/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -251,7 +250,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B6%CE%B1%CE%B3%CE%BF%CF%81%CE%AF%CF%83%CE%B9%CE%BF/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/mahur/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -260,15 +263,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/mahur/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/saz-semai/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -277,20 +273,18 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%B6%CF%89%CE%BD%CE%B1%CF%81%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%82/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/zonaradikos-vasilaris/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%B6%CF%89%CE%BD%CE%B1%CF%81%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%82/</loc>
-    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B8%CF%81%CE%AC%CE%BA%CE%B7/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -314,15 +308,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/nikriz/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -333,13 +320,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -353,20 +338,18 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/ferahfeza/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/ferahfeza-longa/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/ferahfeza/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/longa/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -387,7 +370,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%B5%CF%81%CE%B5%CE%AC-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -403,13 +385,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B7%CF%80%CE%B5%CE%B9%CF%81%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1-%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -430,7 +410,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BB%CE%AF%CF%83%CF%84%CE%B5%CF%82/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -439,14 +418,33 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B1%CF%8A%CE%BD%CF%84%CE%BF%CF%8D%CF%83%CE%BA%CE%B1/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/mpaintouska-papanastasiou/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B1%CF%8A%CE%BD%CF%84%CE%BF%CF%8D%CF%83%CE%BA%CE%B1/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mousikobostani.github.io/tags/bacanos/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/nim-sofyan/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/oyun-havasi/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/saba/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -455,27 +453,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/bacanos/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/nim-sofyan/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/oyun-havasi/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/saba/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mousikobostani.github.io/tags/acemasiran/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -489,27 +468,18 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/acemasiran/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/makam/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/sakri/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/yuruk-semai/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -518,14 +488,28 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/buselik/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/buselik-pesrev-kantemir/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/buselik/</loc>
-    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mousikobostani.github.io/tags/duyek/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/ilahi/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/muhayyer/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -539,24 +523,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/duyek/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/ilahi/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/muhayyer/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/makam-muhayyer/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -564,7 +530,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%AC%CF%82/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -575,7 +540,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/karcigar/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -589,14 +553,13 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/ussak-arap-saz-semai/</loc>
+    <loc>http://mousikobostani.github.io/tags/ussak/</loc>
     <lastmod>2017-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/ussak/</loc>
+    <loc>http://mousikobostani.github.io/post/ussak-arap-saz-semai/</loc>
     <lastmod>2017-12-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -607,13 +570,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BD%CE%AC%CF%80%CE%BF%CE%B4%CE%BF%CF%82-%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -629,13 +590,16 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/curcuna/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/kurdi/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/hicaz/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -649,21 +613,13 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/hicaz/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%BF%CF%83%CE%AD%CF%81%CE%B2%CE%B9%CE%BA%CE%BF/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -674,7 +630,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/kurdilihicazkiar/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -693,7 +648,17 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/huzzam/</loc>
+    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/huzzam-ss-goksel/</loc>
+    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/segah/</loc>
     <lastmod>2017-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -703,21 +668,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/huzzam/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/segah/</loc>
-    <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/perdesi/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -726,18 +678,22 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/ney/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/ney-classes-gokhan/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/ney/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mousikobostani.github.io/post/paliograikohorites/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/paliograikohorites/</loc>
+    <loc>http://mousikobostani.github.io/tags/huseyni/</loc>
     <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -757,20 +713,13 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/rast-p-refik/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/huseyni/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/oyun_havasi/</loc>
     <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/rast-p-refik/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -791,7 +740,16 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%BF%CE%BB%CE%AF%CE%B4%CE%B9%CE%B1/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/nihavend/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/nihavent/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -802,18 +760,6 @@
   <url>
     <loc>http://mousikobostani.github.io/post/saba-ss-aziz-dede/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/nihavend/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/nihavent/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -894,31 +840,26 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%84%CE%AC%CE%BB%CE%B9%CE%BA%CE%BF/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%AE%CF%84%CE%B7/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B5%CE%BC%CF%80%CE%AD%CF%84%CE%B9%CE%BA%CE%B1/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%AC%CF%80%CE%B9%CE%BA%CE%BF/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -989,7 +930,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/zeybek/</loc>
     <lastmod>2017-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1000,7 +940,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/houzam/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1061,7 +1000,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B6%CE%B5%CF%8A%CE%BC%CF%80%CE%AD%CE%BA%CE%B9%CE%BA%CE%BF/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1247,7 +1185,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/hicazkiar/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1278,7 +1215,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%BF%CE%BB%CE%B5%CF%81%CF%8C/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1319,7 +1255,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1335,19 +1270,16 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</loc>
     <lastmod>2017-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%BB%CE%B1%CF%81%CE%AF%CE%BD%CE%BF/</loc>
     <lastmod>2017-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/minore/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1362,11 +1294,6 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/aigiotissa/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/arkaddiani/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -1443,25 +1370,26 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%82/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/arkaddiani/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B5%CF%86%CF%84%CE%AC%CF%81%CE%B9/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CF%84%CE%B9%CE%BD%CE%AC%CE%B4%CE%B1/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/foxtrot/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1555,7 +1483,22 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/sam-eihes-allon-sti-kardia/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1617,84 +1560,51 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%AD%CF%81%CE%BA%CF%85%CF%81%CE%B1/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CF%85%CE%BA%CE%BB%CE%AC%CE%B4%CE%B5%CF%82/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%81%CE%BF%CF%82/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%83%CE%B2%CE%BF%CF%82/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%83%CF%84/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/premeti-vinji/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/muhayyer-kurdi/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/premeti-vinji/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1858,6 +1768,11 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CE%BF/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/kaneloriza/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -1973,6 +1888,11 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%B1%CE%90%CE%BA%CE%B1/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/stella/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -2075,55 +1995,36 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%81%CE%B9/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CE%BF/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%BB%CF%85%CF%86%CF%89%CE%BD%CE%B9%CE%BA%CF%8C/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%AD%CE%B2%CE%B5%CE%B6%CE%B1/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%B1%CE%90%CE%BA%CE%B1/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2178,6 +2079,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/links/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CE%BB%CE%B1%CE%BD%CF%84%CE%B1/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -2269,29 +2175,25 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B2%CE%BB%CE%AC%CF%87%CE%BF%CE%B9/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B9%CF%83%CF%84%CF%8C%CF%84%CE%BF%CF%80%CE%BF%CE%B9/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CE%BB%CE%B1%CE%BD%CF%84%CE%B1/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%84%CE%B9/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/hicaz-ss-goksel/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/sultani-yegah/</loc>
     <lastmod>2017-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -2301,13 +2203,12 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/sultani-yegah/</loc>
-    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mousikobostani.github.io/post/laloun-flogeres/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/laloun-flogeres/</loc>
+    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -2317,15 +2218,8 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2446,7 +2340,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE/</loc>
     <lastmod>2017-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2482,13 +2375,11 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B3%CE%AC%CE%BC%CE%BF%CF%85/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B5%CE%BE%CE%AC%CF%81%CE%B9/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2524,7 +2415,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/search/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2800,55 +2690,46 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B4%CE%B1%CF%81%CE%AC%CE%BA%CE%B9/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CF%85%CF%83%CE%BD%CE%AF%CF%84%CF%83%CE%B1/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CF%8C%CE%BD%CF%84%CE%BF%CF%82/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CE%90%CE%BA%CE%BF/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B5%CE%BC%CF%80%CE%AC%CF%84%CE%B9%CE%BA%CE%B1/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CE%B5%CF%83%CF%83%CE%AC%CF%81%CE%B9/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%84%CF%81%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%B9%CF%83%CF%84%CF%8C%CF%82/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%B9%CE%AC/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2869,7 +2750,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/random/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2990,25 +2870,21 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/buselic/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/tags/neveser/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3018,6 +2894,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/post/hicaz/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CF%87%CE%BF%CF%81%CE%B4%CE%B1/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -3039,12 +2920,6 @@
   <url>
     <loc>http://mousikobostani.github.io/post/hicaz5/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CF%87%CE%BF%CF%81%CE%B4%CE%B1/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3105,13 +2980,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CE%B1%CF%81%CE%B1%CE%BA%CE%B1%CF%84%CF%83%CE%AC%CE%BD%CE%B9%CE%BA%CE%B1/</loc>
     <lastmod>2017-09-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/pages/</loc>
-    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3137,7 +3005,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/tag-cloud/</loc>
     <lastmod>2016-12-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3163,7 +3030,6 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</loc>
     <lastmod>2013-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3178,7 +3044,6 @@
   
   <url>
     <loc>http://mousikobostani.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
