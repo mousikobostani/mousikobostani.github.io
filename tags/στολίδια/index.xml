@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>στολίδια on Μουσικό Μποστάνι</title>
@@ -28,9 +28,7 @@ A turn is a short figure consisting of the note above the one indicated, the not
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/appoggiature/</guid>
-      <description>Appoggiatura - WikipediaAn appoggiatura (; Italian: [appoddʒaˈtuːra]; German Vorschlag, Vorhalt; French Port de voix) is a musical ornament that consists of an added non-chord note in a melody that is resolved to the regular note of the chord. By putting the non-chord tone on a strong beat, this accents the appoggiatura note, which also delays the appearance of the principal, expected chord note.
- 
- https://en.wikipedia.org/wiki/Appoggiatura  </description>
+      <description> https://en.wikipedia.org/wiki/Appoggiatura  </description>
     </item>
     
     <item>
@@ -39,8 +37,7 @@ A turn is a short figure consisting of the note above the one indicated, the not
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/mordent/</guid>
-      <description>
-     wikipedia  </description>
+      <description>     wikipedia  </description>
     </item>
     
     <item>
@@ -51,7 +48,7 @@ A turn is a short figure consisting of the note above the one indicated, the not
       <guid>http://mousikobostani.github.io/post/ornaments/</guid>
       <description>Στολίδια - καλωπισμοί - μελίσματα
 Πηγές
- A Beginner&amp;rsquo;s Guide to Playing the Kaval by Bob Snider  Ornament (music) - WikipediaIn music, ornaments or embellishments are musical flourishes-typically, added notes-that are not essential to carry the overall line of the melody (or harmony), but serve instead to decorate or &amp;ldquo; ornament&amp;rdquo; that line (or harmony), provide added interest and variety, and give the performer the opportunity to add expressiveness to a song or piece.</description>
+ A Beginner&#39;s Guide to Playing the Kaval by Bob Snider  </description>
     </item>
     
   </channel>

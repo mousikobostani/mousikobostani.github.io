@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ματζόρε on Μουσικό Μποστάνι</title>
+    <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</link>
+    <description>Recent content in ματζόρε on Μουσικό Μποστάνι</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com</managingEditor>
+    <webMaster>igoumeninja@gmail.com</webMaster>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Η Φρόσω</title>
+      <link>http://mousikobostani.github.io/post/froso/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/froso/</guid>
+      <description>A+</description>
+    </item>
+    
+  </channel>
+</rss>

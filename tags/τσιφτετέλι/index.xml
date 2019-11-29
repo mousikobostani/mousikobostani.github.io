@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>τσιφτετέλι on Μουσικό Μποστάνι</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Κατινάκι μου για σένα</title>
+      <link>http://mousikobostani.github.io/post/katinaki/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/katinaki/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>Το καναρίνι</title>
@@ -18,20 +27,7 @@
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/to-kanarini/</guid>
-      <description>Καναρίνι μου γλυκό
-συ μου πήρες το μυαλό,
-το πρωί που με ξυπνάς
-όταν γλυκοκελαηδας.
-Έλα κοντά μου στην αγκαλιά μου
-αχ ένα βράδυ στη κάμαρα μου.
-Έλα κοντά μου στην αγκαλιά μου
-να σε χορτάσω με τα φιλιά μου.
-Αχ ρε ζηλιάρικο πουλί
-συ θα με τρελάνεις,
-με την γλυκιά σου τη λαλιά
-σκλάβο σου θα με κάνεις.
-Έλα κοντά μου στην αγκαλιά μου
-αχ ένα βράδυ στη κάμαρα μου.</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -40,21 +36,7 @@
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/hariklaki/</guid>
-      <description>Χτες το βράδυ Χαρικλάκι
-είχες πάλι τ&#39; οργανάκι
-και γλεντούσες με &#39;να &#39;λάνι
-κάτω στο Πασαλιμάνι
-Φιλάκια ναζάκια άντε Χαρικλάκι
-πως με γέλασες άντε γειά σου μου την έσκασες
-Μες στην μπύρα όταν μπήκες
-αχ μανούλα μου τι γλύκες
-με φωνόγραφο και πλάκες
-νταλγκαδάκια με τους μάγκες
-Ζηλεύω και κλαίγω άντε Χαρικλάκι
-πως με γέλασες άντε γειά σου μου την έσκασες
-Το πρωί για τη Γλυφάδα
-κούκλα μ&#39; αυτοκινιτάδα
-κολυμπάς σαν πάπια χήνα</description>
+      <description>    </description>
     </item>
     
     <item>
@@ -63,15 +45,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/mpournovalia/</guid>
-      <description>Ώπα, ώπα, ώπα, ώπα, σου το λέγω και σου το &#39;πα
-Το κορμάκι το φιδίσιο μην το γέρνεις μπρος και πίσω
-Το κορμάκι το φιδίσιο κράτα το και λίγο ίσιο
-Χόρεψε Μπουρνοβαλιά μου, να σου στείλω τα φιλιά μου
-Χόρεψε αγαπούλα μου, παραμύθι πούλα μου
-Χόρεψε Μπουρνοβαλιά μου, να θυμάμαι τα παλιά μου
-Χόρεψε χανούμισσα, μου &#39;μοιασες και σου &#39;μοιασα
-Ωπα, ώπα, ώπα, ώπα, κοίτα γύρω σου και σώπα
-Μάτια σε τρυπάνε χίλια μέσα απ&#39; της καρδιάς τη γρίλια</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -80,17 +54,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/tha-spaso-koures/</guid>
-      <description>Θα σπάσω κούπες για τα λόγια που \`πες
-και ποτηράκια για τα πικρά λογάκια
-αμάν άμαν, πια μικρό μην κλαις
-αμάν άμαν, κι έχεις ό,τι θες
-Σπάω τα πιάτα για τα δυο σου
-μαύρα μάτια
-Εψές το βράδυ είδα στ’ όνειρό μου
-πως είχες τα μαλλάκια σου ριγμένα στο λαιμό μου
-αμάν άμαν, πια μικρό μην κλαις
-αμάν άμαν, κι έχεις ό,τι θες
-Σπάω τα πιάτα για τα δυο σου</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -99,17 +63,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/misirlou/</guid>
-      <description>&amp;#xa0;Μισιρλού μου, η γλυκιά σου η ματιά
-&amp;#xa0;φλόγα μου \`χει ανάψει μες στην καρδιά,
-&amp;#xa0;αχ γιαχαμπίμπι, αχ γιαλελέλι, αχ
-&amp;#xa0;τα δυο σου χείλη στάζουνε μέλι, αχ.
-&amp;#xa0;Αχ, Μισιρλού, (μαγική ξωτική ομορφιά)|
-&amp;#xa0;τρέλα θα με \`ρθει, δεν υποφέρω πια, |
-&amp;#xa0;αχ, θα σε κλέψω μέσ’ απ’ την Αραπιά. | (2)
-&amp;#xa0;Μαυρομάτα Μισιρλού μου τρελή
-&amp;#xa0;τη ζωή μου αλλάζω μ’ ένα φιλί,
-&amp;#xa0;αχ γιαχαμπίμπι, μ’ ένα φιλάκι, αχ
-&amp;#xa0;απ’ το δικό σου το στοματάκι, αμάν.</description>
+      <description>      </description>
     </item>
     
     <item>
@@ -118,18 +72,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/psarades/</guid>
-      <description>
-Σε καινούρια βάρκα μπήκα
-και στον Αϊ Γιώργη βγήκα
-Είδα ναύτες παλληκάρια
-που ψαρεύανε τα ψάρια
-Έχετε ψαράδες ψάρια
-αστακούς και καλαμάρια
-Έμπα μέσα διάλεξέ τα
-και παλάντζα ζύγισέ τα
-Πάρε βούρλα βούρλισέ τα
-κι όσο θέλεις πλήρωσέ τα
-  </description>
+      <description>  </description>
     </item>
     
     <item>
@@ -157,9 +100,17 @@
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/theiakos-selfo/</guid>
-      <description>
-Ο Θειακός συναντάται πέρα από την Ήπειρο στη Λευκάδα, με παρόμοια μελωδία και ρυθμική αγωγή. Η Σέλφω ή αλλιώς Τ&amp;rsquo; αηδόνι είναι ένας πολύ αγαπητός σκοπός, όπου το βιολί προσπαθεί να μιμηθεί το κελάηδισμα του αηδονιού. Ο χορός κορυφώνεται και κλείνει με Χόρα, αφήνοντας τον απόηχο μιας εύθυμης διάθεσης.
+      <description>Ο Θειακός συναντάται πέρα από την Ήπειρο στη Λευκάδα, με παρόμοια μελωδία και ρυθμική αγωγή. Η Σέλφω ή αλλιώς Τ&amp;rsquo; αηδόνι είναι ένας πολύ αγαπητός σκοπός, όπου το βιολί προσπαθεί να μιμηθεί το κελάηδισμα του αηδονιού. Ο χορός κορυφώνεται και κλείνει με Χόρα, αφήνοντας τον απόηχο μιας εύθυμης διάθεσης.
   </description>
+    </item>
+    
+    <item>
+      <title>Χανουμάκια (Μέσα στην Πόλη βρίσκομαι)</title>
+      <link>http://mousikobostani.github.io/post/hanoumakia/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com</author>
+      <guid>http://mousikobostani.github.io/post/hanoumakia/</guid>
+      <description>  </description>
     </item>
     
   </channel>
