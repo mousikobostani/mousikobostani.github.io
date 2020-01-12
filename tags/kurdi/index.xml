@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kurdi on Μουσικό Μποστάνι</title>
+    <title>Kurdi on Μουσικό Μποστάνι</title>
     <link>http://mousikobostani.github.io/tags/kurdi/</link>
-    <description>Recent content in kurdi on Μουσικό Μποστάνι</description>
+    <description>Recent content in Kurdi on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/basa-bela/</guid>
-      <description>     </description>
+      <description>      </description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/makam-kurdi/</guid>
-      <description>  </description>
+      <description>    </description>
     </item>
     
   </channel>

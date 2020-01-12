@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>random on Μουσικό Μποστάνι</title>
+    <title>Random on Μουσικό Μποστάνι</title>
     <link>http://mousikobostani.github.io/tags/random/</link>
-    <description>Recent content in random on Μουσικό Μποστάνι</description>
+    <description>Recent content in Random on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>igoumeninja@gmail.com</managingEditor>
     <webMaster>igoumeninja@gmail.com</webMaster>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/random-zoumpe/</guid>
-      <description>Πυροβολάτε!</description>
+      <description>&#34;  $(document).ready(function(){ $(&#34;button&#34;).click(function(){ $.get(&#34;list.json&#34;, function(data, status){ window.open(data[Math.floor(Math.random() \* data.length)]); },&#34;json&#34;); }); });     &#34; target=&#34;\_blank&#34;  Πυροβολάτε!  </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       <author>igoumeninja@gmail.com</author>
       <guid>http://mousikobostani.github.io/post/random2/</guid>
-      <description>http://arisearch.github.io/javascript/2015/03/12_random-page-collector.html  Πυροβολάτε!</description>
+      <description> http://arisearch.github.io/javascript/2015/03/12_random-page-collector.html  &#34;  $(document).ready(function(){ $(&#34;button&#34;).click(function(){ $.get(&#34;171003\_list.json&#34;, function(data, status){ window.open(data[Math.floor(Math.random() \* data.length)]); },&#34;json&#34;); }); });     &#34; target=&#34;\_blank&#34;  Πυροβολάτε!  </description>
     </item>
     
     <item>
