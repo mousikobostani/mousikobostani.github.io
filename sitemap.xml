@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/suznak-pesrev-tatyos/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/kurdilihicazkar-longa-kemani/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/kurdilihicazkar-pesrev-tanburi-cemil-bey/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/koita-me-glykai-mou-agapi/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/post/armenitsa/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
@@ -2500,6 +2520,12 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/kurdilihicazkar/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/kurdilihicazkiar/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2507,7 +2533,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/longa/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2525,7 +2551,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/makam/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2627,13 +2653,13 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/pesrev/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2692,6 +2718,12 @@
   </url>
   
   <url>
+    <loc>http://mousikobostani.github.io/tags/suznak/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/tag-cloud/</loc>
     <lastmod>2016-12-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2735,7 +2767,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B1%CE%BD%CE%AC%CF%80%CE%BF%CE%B4%CE%BF%CF%82-%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2813,7 +2845,7 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B5%CF%86%CF%84%CE%AC%CF%81%CE%B9/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3090,6 +3122,12 @@
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%83%CF%84/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%8A%CE%BA%CE%BF%CF%82/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
