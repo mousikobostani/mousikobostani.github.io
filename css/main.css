@@ -1,4 +1,7 @@
 /* --- General --- */
+.twitter-tweet {
+    margin: 10px auto 10px;
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
