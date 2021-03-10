@@ -5,19 +5,37 @@
     <link>http://mousikobostani.github.io/tags/</link>
     <description>Recent content in Tags on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com</managingEditor>
-    <webMaster>igoumeninja@gmail.com</webMaster>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>p5.js</title>
+      <link>http://mousikobostani.github.io/tags/p5.js/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>http://mousikobostani.github.io/tags/p5.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>καλαματιανό</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ρυθμός</title>
+      <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</guid>
       <description></description>
     </item>
     
@@ -25,8 +43,17 @@
       <title>παιδικά</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>πωγωνίσιο</title>
+      <link>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</guid>
       <description></description>
     </item>
     
@@ -34,7 +61,7 @@
       <title>νησιώτικα</title>
       <link>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -43,7 +70,7 @@
       <title>συρτός</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
@@ -52,7 +79,7 @@
       <title>nikriz</title>
       <link>http://mousikobostani.github.io/tags/nikriz/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/nikriz/</guid>
       <description></description>
     </item>
@@ -61,7 +88,7 @@
       <title>καρσιλαμάς</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%AC%CF%82/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%AC%CF%82/</guid>
       <description></description>
     </item>
@@ -70,7 +97,7 @@
       <title>huzzam</title>
       <link>http://mousikobostani.github.io/tags/huzzam/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/huzzam/</guid>
       <description></description>
     </item>
@@ -79,7 +106,7 @@
       <title>makam</title>
       <link>http://mousikobostani.github.io/tags/makam/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/makam/</guid>
       <description></description>
     </item>
@@ -88,7 +115,7 @@
       <title>pesrev</title>
       <link>http://mousikobostani.github.io/tags/pesrev/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/pesrev/</guid>
       <description></description>
     </item>
@@ -97,7 +124,7 @@
       <title>suznak</title>
       <link>http://mousikobostani.github.io/tags/suznak/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/suznak/</guid>
       <description></description>
     </item>
@@ -106,7 +133,7 @@
       <title>kurdi</title>
       <link>http://mousikobostani.github.io/tags/kurdi/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/kurdi/</guid>
       <description></description>
     </item>
@@ -115,7 +142,7 @@
       <title>kurdilihicazkar</title>
       <link>http://mousikobostani.github.io/tags/kurdilihicazkar/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/kurdilihicazkar/</guid>
       <description></description>
     </item>
@@ -124,7 +151,7 @@
       <title>longa</title>
       <link>http://mousikobostani.github.io/tags/longa/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/longa/</guid>
       <description></description>
     </item>
@@ -133,7 +160,7 @@
       <title>ανάποδος-μαντηλάτος</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CE%BD%CE%AC%CF%80%CE%BF%CE%B4%CE%BF%CF%82-%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CE%BD%CE%AC%CF%80%CE%BF%CE%B4%CE%BF%CF%82-%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -142,7 +169,7 @@
       <title>εφτάρι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B5%CF%86%CF%84%CE%AC%CF%81%CE%B9/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B5%CF%86%CF%84%CE%AC%CF%81%CE%B9/</guid>
       <description></description>
     </item>
@@ -151,7 +178,7 @@
       <title>ραϊκος</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%8A%CE%BA%CE%BF%CF%82/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%8A%CE%BA%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -160,7 +187,7 @@
       <title>hicaz</title>
       <link>http://mousikobostani.github.io/tags/hicaz/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/hicaz/</guid>
       <description></description>
     </item>
@@ -169,7 +196,7 @@
       <title>ρεμπέτικα</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CE%B5%CE%BC%CF%80%CE%AD%CF%84%CE%B9%CE%BA%CE%B1/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CE%B5%CE%BC%CF%80%CE%AD%CF%84%CE%B9%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -178,7 +205,7 @@
       <title>τσιφτετέλι</title>
       <link>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</guid>
       <description></description>
     </item>
@@ -187,7 +214,7 @@
       <title>sirto</title>
       <link>http://mousikobostani.github.io/tags/sirto/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/sirto/</guid>
       <description></description>
     </item>
@@ -196,7 +223,7 @@
       <title>ματζόρε</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</guid>
       <description></description>
     </item>
@@ -205,7 +232,7 @@
       <title>κρήτη</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%AE%CF%84%CE%B7/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%AE%CF%84%CE%B7/</guid>
       <description></description>
     </item>
@@ -214,17 +241,8 @@
       <title>ήπειρος</title>
       <link>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>πωγωνίσιο</title>
-      <link>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</guid>
       <description></description>
     </item>
     
@@ -232,7 +250,7 @@
       <title>λέσβος</title>
       <link>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%83%CE%B2%CE%BF%CF%82/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%83%CE%B2%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -241,7 +259,7 @@
       <title>majore</title>
       <link>http://mousikobostani.github.io/tags/majore/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/majore/</guid>
       <description></description>
     </item>
@@ -250,7 +268,7 @@
       <title>rast</title>
       <link>http://mousikobostani.github.io/tags/rast/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/rast/</guid>
       <description></description>
     </item>
@@ -259,7 +277,7 @@
       <title>βαλς</title>
       <link>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B2%CE%B1%CE%BB%CF%82/</guid>
       <description></description>
     </item>
@@ -268,7 +286,7 @@
       <title>κρητικά</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/</guid>
       <description></description>
     </item>
@@ -277,7 +295,7 @@
       <title>μαλεβιζιώτης</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BB%CE%B5%CE%B2%CE%B9%CE%B6%CE%B9%CF%8E%CF%84%CE%B7%CF%82/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BB%CE%B5%CE%B2%CE%B9%CE%B6%CE%B9%CF%8E%CF%84%CE%B7%CF%82/</guid>
       <description></description>
     </item>
@@ -286,7 +304,7 @@
       <title>σμυρναΐκα</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -295,7 +313,7 @@
       <title>cargah</title>
       <link>http://mousikobostani.github.io/tags/cargah/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/cargah/</guid>
       <description></description>
     </item>
@@ -304,7 +322,7 @@
       <title>ottoman</title>
       <link>http://mousikobostani.github.io/tags/ottoman/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/ottoman/</guid>
       <description></description>
     </item>
@@ -313,7 +331,7 @@
       <title>πελλοπόνησος</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -322,17 +340,8 @@
       <title>τσάμικο</title>
       <link>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%84%CF%83%CE%AC%CE%BC%CE%B9%CE%BA%CE%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ρυθμός</title>
-      <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
-      <guid>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</guid>
       <description></description>
     </item>
     
@@ -340,7 +349,7 @@
       <title>συγκαθιστός</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
@@ -349,7 +358,7 @@
       <title>συγκαθιστός_ηπείρου</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82_%CE%B7%CF%80%CE%B5%CE%AF%CF%81%CE%BF%CF%85/</guid>
       <description></description>
     </item>
@@ -358,7 +367,7 @@
       <title>archive</title>
       <link>http://mousikobostani.github.io/tags/archive/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/archive/</guid>
       <description></description>
     </item>
@@ -367,7 +376,7 @@
       <title>karcigiar</title>
       <link>http://mousikobostani.github.io/tags/karcigiar/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/karcigiar/</guid>
       <description></description>
     </item>
@@ -376,7 +385,7 @@
       <title>συρτός-στα-3</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CF%83%CF%84%CE%B1-3/</guid>
       <description></description>
     </item>
@@ -385,7 +394,7 @@
       <title>aka</title>
       <link>http://mousikobostani.github.io/tags/aka/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/aka/</guid>
       <description></description>
     </item>
@@ -394,7 +403,7 @@
       <title>σειρές</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</guid>
       <description></description>
     </item>
@@ -403,7 +412,7 @@
       <title>modal</title>
       <link>http://mousikobostani.github.io/tags/modal/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/modal/</guid>
       <description></description>
     </item>
@@ -412,7 +421,7 @@
       <title>mustear</title>
       <link>http://mousikobostani.github.io/tags/mustear/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/mustear/</guid>
       <description></description>
     </item>
@@ -421,7 +430,7 @@
       <title>ζαγορίσιο</title>
       <link>http://mousikobostani.github.io/tags/%CE%B6%CE%B1%CE%B3%CE%BF%CF%81%CE%AF%CF%83%CE%B9%CE%BF/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B6%CE%B1%CE%B3%CE%BF%CF%81%CE%AF%CF%83%CE%B9%CE%BF/</guid>
       <description></description>
     </item>
@@ -430,7 +439,7 @@
       <title>mahur</title>
       <link>http://mousikobostani.github.io/tags/mahur/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/mahur/</guid>
       <description></description>
     </item>
@@ -439,7 +448,7 @@
       <title>saz-semai</title>
       <link>http://mousikobostani.github.io/tags/saz-semai/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/saz-semai/</guid>
       <description></description>
     </item>
@@ -448,7 +457,7 @@
       <title>ζωναράδικος</title>
       <link>http://mousikobostani.github.io/tags/%CE%B6%CF%89%CE%BD%CE%B1%CF%81%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%82/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B6%CF%89%CE%BD%CE%B1%CF%81%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -457,7 +466,7 @@
       <title>θράκη</title>
       <link>http://mousikobostani.github.io/tags/%CE%B8%CF%81%CE%AC%CE%BA%CE%B7/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B8%CF%81%CE%AC%CE%BA%CE%B7/</guid>
       <description></description>
     </item>
@@ -466,7 +475,7 @@
       <title>θεσσαλία</title>
       <link>http://mousikobostani.github.io/tags/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -475,7 +484,7 @@
       <title>ferahfeza</title>
       <link>http://mousikobostani.github.io/tags/ferahfeza/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/ferahfeza/</guid>
       <description></description>
     </item>
@@ -484,7 +493,7 @@
       <title>στερεά-ελλάδα</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%B5%CF%81%CE%B5%CE%AC-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%B5%CF%81%CE%B5%CE%AC-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/</guid>
       <description></description>
     </item>
@@ -493,7 +502,7 @@
       <title>ηπειρώτικα</title>
       <link>http://mousikobostani.github.io/tags/%CE%B7%CF%80%CE%B5%CE%B9%CF%81%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B7%CF%80%CE%B5%CE%B9%CF%81%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -502,7 +511,7 @@
       <title>πεντατονία</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -511,7 +520,7 @@
       <title>πεντατονία-ματζόρε</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1-%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%B1%CF%84%CE%BF%CE%BD%CE%AF%CE%B1-%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</guid>
       <description></description>
     </item>
@@ -520,7 +529,7 @@
       <title>λίστες</title>
       <link>http://mousikobostani.github.io/tags/%CE%BB%CE%AF%CF%83%CF%84%CE%B5%CF%82/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BB%CE%AF%CF%83%CF%84%CE%B5%CF%82/</guid>
       <description></description>
     </item>
@@ -529,7 +538,7 @@
       <title>μπαϊντούσκα</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B1%CF%8A%CE%BD%CF%84%CE%BF%CF%8D%CF%83%CE%BA%CE%B1/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B1%CF%8A%CE%BD%CF%84%CE%BF%CF%8D%CF%83%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -538,7 +547,7 @@
       <title>bacanos</title>
       <link>http://mousikobostani.github.io/tags/bacanos/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/bacanos/</guid>
       <description></description>
     </item>
@@ -547,7 +556,7 @@
       <title>nim-sofyan</title>
       <link>http://mousikobostani.github.io/tags/nim-sofyan/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/nim-sofyan/</guid>
       <description></description>
     </item>
@@ -556,7 +565,7 @@
       <title>oyun-havasi</title>
       <link>http://mousikobostani.github.io/tags/oyun-havasi/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/oyun-havasi/</guid>
       <description></description>
     </item>
@@ -565,7 +574,7 @@
       <title>saba</title>
       <link>http://mousikobostani.github.io/tags/saba/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/saba/</guid>
       <description></description>
     </item>
@@ -574,7 +583,7 @@
       <title>acemasiran</title>
       <link>http://mousikobostani.github.io/tags/acemasiran/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/acemasiran/</guid>
       <description></description>
     </item>
@@ -583,7 +592,7 @@
       <title>sakri</title>
       <link>http://mousikobostani.github.io/tags/sakri/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/sakri/</guid>
       <description></description>
     </item>
@@ -592,7 +601,7 @@
       <title>yuruk-semai</title>
       <link>http://mousikobostani.github.io/tags/yuruk-semai/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/yuruk-semai/</guid>
       <description></description>
     </item>
@@ -601,7 +610,7 @@
       <title>buselik</title>
       <link>http://mousikobostani.github.io/tags/buselik/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/buselik/</guid>
       <description></description>
     </item>
@@ -610,7 +619,7 @@
       <title>duyek</title>
       <link>http://mousikobostani.github.io/tags/duyek/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/duyek/</guid>
       <description></description>
     </item>
@@ -619,7 +628,7 @@
       <title>ilahi</title>
       <link>http://mousikobostani.github.io/tags/ilahi/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/ilahi/</guid>
       <description></description>
     </item>
@@ -628,7 +637,7 @@
       <title>muhayyer</title>
       <link>http://mousikobostani.github.io/tags/muhayyer/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/muhayyer/</guid>
       <description></description>
     </item>
@@ -637,7 +646,7 @@
       <title>karcigar</title>
       <link>http://mousikobostani.github.io/tags/karcigar/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/karcigar/</guid>
       <description></description>
     </item>
@@ -646,7 +655,7 @@
       <title>ussak</title>
       <link>http://mousikobostani.github.io/tags/ussak/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/ussak/</guid>
       <description></description>
     </item>
@@ -655,7 +664,7 @@
       <title>μακεδονία</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -664,7 +673,7 @@
       <title>curcuna</title>
       <link>http://mousikobostani.github.io/tags/curcuna/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/curcuna/</guid>
       <description></description>
     </item>
@@ -673,7 +682,7 @@
       <title>μαντηλάτος</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -682,7 +691,7 @@
       <title>χασαποσέρβικο</title>
       <link>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%BF%CF%83%CE%AD%CF%81%CE%B2%CE%B9%CE%BA%CE%BF/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%BF%CF%83%CE%AD%CF%81%CE%B2%CE%B9%CE%BA%CE%BF/</guid>
       <description></description>
     </item>
@@ -691,7 +700,7 @@
       <title>kurdilihicazkiar</title>
       <link>http://mousikobostani.github.io/tags/kurdilihicazkiar/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/kurdilihicazkiar/</guid>
       <description></description>
     </item>
@@ -700,7 +709,7 @@
       <title>segah</title>
       <link>http://mousikobostani.github.io/tags/segah/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/segah/</guid>
       <description></description>
     </item>
@@ -709,7 +718,7 @@
       <title>perdesi</title>
       <link>http://mousikobostani.github.io/tags/perdesi/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/perdesi/</guid>
       <description></description>
     </item>
@@ -718,7 +727,7 @@
       <title>ney</title>
       <link>http://mousikobostani.github.io/tags/ney/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/ney/</guid>
       <description></description>
     </item>
@@ -727,7 +736,7 @@
       <title>huseyni</title>
       <link>http://mousikobostani.github.io/tags/huseyni/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/huseyni/</guid>
       <description></description>
     </item>
@@ -736,7 +745,7 @@
       <title>oyun_havasi</title>
       <link>http://mousikobostani.github.io/tags/oyun_havasi/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/oyun_havasi/</guid>
       <description></description>
     </item>
@@ -745,7 +754,7 @@
       <title>στολίδια</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%BF%CE%BB%CE%AF%CE%B4%CE%B9%CE%B1/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%84%CE%BF%CE%BB%CE%AF%CE%B4%CE%B9%CE%B1/</guid>
       <description></description>
     </item>
@@ -754,7 +763,7 @@
       <title>nihavend</title>
       <link>http://mousikobostani.github.io/tags/nihavend/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/nihavend/</guid>
       <description></description>
     </item>
@@ -763,7 +772,7 @@
       <title>nihavent</title>
       <link>http://mousikobostani.github.io/tags/nihavent/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/nihavent/</guid>
       <description></description>
     </item>
@@ -772,7 +781,7 @@
       <title>απτάλικο</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%84%CE%AC%CE%BB%CE%B9%CE%BA%CE%BF/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%84%CE%AC%CE%BB%CE%B9%CE%BA%CE%BF/</guid>
       <description></description>
     </item>
@@ -781,7 +790,7 @@
       <title>χασάπικο</title>
       <link>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%AC%CF%80%CE%B9%CE%BA%CE%BF/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%AC%CF%80%CE%B9%CE%BA%CE%BF/</guid>
       <description></description>
     </item>
@@ -790,7 +799,7 @@
       <title>zeybek</title>
       <link>http://mousikobostani.github.io/tags/zeybek/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/zeybek/</guid>
       <description></description>
     </item>
@@ -799,7 +808,7 @@
       <title>houzam</title>
       <link>http://mousikobostani.github.io/tags/houzam/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/houzam/</guid>
       <description></description>
     </item>
@@ -808,7 +817,7 @@
       <title>ζεϊμπέκικο</title>
       <link>http://mousikobostani.github.io/tags/%CE%B6%CE%B5%CF%8A%CE%BC%CF%80%CE%AD%CE%BA%CE%B9%CE%BA%CE%BF/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B6%CE%B5%CF%8A%CE%BC%CF%80%CE%AD%CE%BA%CE%B9%CE%BA%CE%BF/</guid>
       <description></description>
     </item>
@@ -817,7 +826,7 @@
       <title>hicazkiar</title>
       <link>http://mousikobostani.github.io/tags/hicazkiar/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/hicazkiar/</guid>
       <description></description>
     </item>
@@ -826,7 +835,7 @@
       <title>μπολερό</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%BF%CE%BB%CE%B5%CF%81%CF%8C/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%BF%CE%BB%CE%B5%CF%81%CF%8C/</guid>
       <description></description>
     </item>
@@ -835,7 +844,7 @@
       <title>αργό_τσιφτετέλι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</guid>
       <description></description>
     </item>
@@ -844,7 +853,7 @@
       <title>αλβανία</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -853,7 +862,7 @@
       <title>κλαρίνο</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%BB%CE%B1%CF%81%CE%AF%CE%BD%CE%BF/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%BB%CE%B1%CF%81%CE%AF%CE%BD%CE%BF/</guid>
       <description></description>
     </item>
@@ -862,7 +871,7 @@
       <title>minore</title>
       <link>http://mousikobostani.github.io/tags/minore/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/minore/</guid>
       <description></description>
     </item>
@@ -871,7 +880,7 @@
       <title>απόκριες</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%82/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%82/</guid>
       <description></description>
     </item>
@@ -880,7 +889,7 @@
       <title>πατινάδα</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CF%84%CE%B9%CE%BD%CE%AC%CE%B4%CE%B1/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CF%84%CE%B9%CE%BD%CE%AC%CE%B4%CE%B1/</guid>
       <description></description>
     </item>
@@ -889,7 +898,7 @@
       <title>foxtrot</title>
       <link>http://mousikobostani.github.io/tags/foxtrot/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/foxtrot/</guid>
       <description></description>
     </item>
@@ -898,7 +907,7 @@
       <title>δωδεκάνησα</title>
       <link>http://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/</guid>
       <description></description>
     </item>
@@ -907,7 +916,7 @@
       <title>κάρπαθος</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -916,7 +925,7 @@
       <title>κέρκυρα</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%AD%CF%81%CE%BA%CF%85%CF%81%CE%B1/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%AD%CF%81%CE%BA%CF%85%CF%81%CE%B1/</guid>
       <description></description>
     </item>
@@ -925,7 +934,7 @@
       <title>κεφαλλονιά</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/</guid>
       <description></description>
     </item>
@@ -934,7 +943,7 @@
       <title>κυκλάδες</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CF%85%CE%BA%CE%BB%CE%AC%CE%B4%CE%B5%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CF%85%CE%BA%CE%BB%CE%AC%CE%B4%CE%B5%CF%82/</guid>
       <description></description>
     </item>
@@ -943,7 +952,7 @@
       <title>λέρος</title>
       <link>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%81%CE%BF%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%81%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -952,7 +961,7 @@
       <title>ραστ</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%83%CF%84/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CF%83%CF%84/</guid>
       <description></description>
     </item>
@@ -961,7 +970,7 @@
       <title>σάμος</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -970,7 +979,7 @@
       <title>σκύρος</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -979,7 +988,7 @@
       <title>σούστα</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</guid>
       <description></description>
     </item>
@@ -988,7 +997,7 @@
       <title>συρτός-κρήτης</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/</guid>
       <description></description>
     </item>
@@ -997,7 +1006,7 @@
       <title>muhayyer-kurdi</title>
       <link>http://mousikobostani.github.io/tags/muhayyer-kurdi/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/muhayyer-kurdi/</guid>
       <description></description>
     </item>
@@ -1006,7 +1015,7 @@
       <title>αργός-συρτός</title>
       <link>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
@@ -1015,7 +1024,7 @@
       <title>δυάρι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/</guid>
       <description></description>
     </item>
@@ -1024,7 +1033,7 @@
       <title>εννιάρι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%81%CE%B9/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%81%CE%B9/</guid>
       <description></description>
     </item>
@@ -1033,7 +1042,7 @@
       <title>καλαματιανο</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CE%BF/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CE%BF/</guid>
       <description></description>
     </item>
@@ -1042,7 +1051,7 @@
       <title>καρσιλαμας</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/</guid>
       <description></description>
     </item>
@@ -1051,7 +1060,7 @@
       <title>ποιμενικός</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B9%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82/</guid>
       <description></description>
     </item>
@@ -1060,7 +1069,7 @@
       <title>πολυφωνικό</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%BB%CF%85%CF%86%CF%89%CE%BD%CE%B9%CE%BA%CF%8C/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%BB%CF%85%CF%86%CF%89%CE%BD%CE%B9%CE%BA%CF%8C/</guid>
       <description></description>
     </item>
@@ -1069,7 +1078,7 @@
       <title>πρέβεζα</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%AD%CE%B2%CE%B5%CE%B6%CE%B1/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%AD%CE%B2%CE%B5%CE%B6%CE%B1/</guid>
       <description></description>
     </item>
@@ -1078,7 +1087,7 @@
       <title>σμυραΐκα</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%B1%CE%90%CE%BA%CE%B1/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%B1%CE%90%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -1087,7 +1096,7 @@
       <title>βλάχοι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B2%CE%BB%CE%AC%CF%87%CE%BF%CE%B9/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B2%CE%BB%CE%AC%CF%87%CE%BF%CE%B9/</guid>
       <description></description>
     </item>
@@ -1096,7 +1105,7 @@
       <title>ιστότοποι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B9%CF%83%CF%84%CF%8C%CF%84%CE%BF%CF%80%CE%BF%CE%B9/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B9%CF%83%CF%84%CF%8C%CF%84%CE%BF%CF%80%CE%BF%CE%B9/</guid>
       <description></description>
     </item>
@@ -1105,7 +1114,7 @@
       <title>κάλαντα</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CE%BB%CE%B1%CE%BD%CF%84%CE%B1/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CE%BB%CE%B1%CE%BD%CF%84%CE%B1/</guid>
       <description></description>
     </item>
@@ -1114,7 +1123,7 @@
       <title>μπεράτι</title>
       <link>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%84%CE%B9/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%84%CE%B9/</guid>
       <description></description>
     </item>
@@ -1123,7 +1132,7 @@
       <title>sultani-yegah</title>
       <link>http://mousikobostani.github.io/tags/sultani-yegah/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/sultani-yegah/</guid>
       <description></description>
     </item>
@@ -1132,7 +1141,7 @@
       <title>5tM</title>
       <link>http://mousikobostani.github.io/tags/5tm/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/5tm/</guid>
       <description></description>
     </item>
@@ -1141,7 +1150,7 @@
       <title>ρυθμομηχανή</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE/</guid>
       <description></description>
     </item>
@@ -1150,7 +1159,7 @@
       <title>γάμου</title>
       <link>http://mousikobostani.github.io/tags/%CE%B3%CE%AC%CE%BC%CE%BF%CF%85/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B3%CE%AC%CE%BC%CE%BF%CF%85/</guid>
       <description></description>
     </item>
@@ -1159,7 +1168,7 @@
       <title>εξάρι</title>
       <link>http://mousikobostani.github.io/tags/%CE%B5%CE%BE%CE%AC%CF%81%CE%B9/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B5%CE%BE%CE%AC%CF%81%CE%B9/</guid>
       <description></description>
     </item>
@@ -1168,7 +1177,7 @@
       <title>search</title>
       <link>http://mousikobostani.github.io/tags/search/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/search/</guid>
       <description></description>
     </item>
@@ -1177,7 +1186,7 @@
       <title>καππαδοκία</title>
       <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -1186,7 +1195,7 @@
       <title>ποδαράκι</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B4%CE%B1%CF%81%CE%AC%CE%BA%CE%B9/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CE%B4%CE%B1%CF%81%CE%AC%CE%BA%CE%B9/</guid>
       <description></description>
     </item>
@@ -1195,7 +1204,7 @@
       <title>πουσνίτσα</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CF%85%CF%83%CE%BD%CE%AF%CF%84%CF%83%CE%B1/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%BF%CF%85%CF%83%CE%BD%CE%AF%CF%84%CF%83%CE%B1/</guid>
       <description></description>
     </item>
@@ -1204,7 +1213,7 @@
       <title>πόντος</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CF%8C%CE%BD%CF%84%CE%BF%CF%82/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CF%8C%CE%BD%CF%84%CE%BF%CF%82/</guid>
       <description></description>
     </item>
@@ -1213,7 +1222,7 @@
       <title>ραΐκο</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CE%90%CE%BA%CE%BF/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CE%B1%CE%90%CE%BA%CE%BF/</guid>
       <description></description>
     </item>
@@ -1222,7 +1231,7 @@
       <title>τεσσάρι</title>
       <link>http://mousikobostani.github.io/tags/%CF%84%CE%B5%CF%83%CF%83%CE%AC%CF%81%CE%B9/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%84%CE%B5%CF%83%CF%83%CE%AC%CF%81%CE%B9/</guid>
       <description></description>
     </item>
@@ -1231,7 +1240,7 @@
       <title>τραμπανιστός</title>
       <link>http://mousikobostani.github.io/tags/%CF%84%CF%81%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%B9%CF%83%CF%84%CF%8C%CF%82/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%84%CF%81%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%B9%CF%83%CF%84%CF%8C%CF%82/</guid>
       <description></description>
     </item>
@@ -1240,7 +1249,7 @@
       <title>χασαπιά</title>
       <link>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%B9%CE%AC/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%87%CE%B1%CF%83%CE%B1%CF%80%CE%B9%CE%AC/</guid>
       <description></description>
     </item>
@@ -1249,7 +1258,7 @@
       <title>random</title>
       <link>http://mousikobostani.github.io/tags/random/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/random/</guid>
       <description></description>
     </item>
@@ -1258,7 +1267,7 @@
       <title>βιβλιογραφία</title>
       <link>http://mousikobostani.github.io/tags/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1/</guid>
       <description></description>
     </item>
@@ -1267,7 +1276,7 @@
       <title>προποντίδα</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/</guid>
       <description></description>
     </item>
@@ -1276,7 +1285,7 @@
       <title>buselic</title>
       <link>http://mousikobostani.github.io/tags/buselic/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/buselic/</guid>
       <description></description>
     </item>
@@ -1285,7 +1294,7 @@
       <title>neveser</title>
       <link>http://mousikobostani.github.io/tags/neveser/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/neveser/</guid>
       <description></description>
     </item>
@@ -1294,7 +1303,7 @@
       <title>πεντάχορδα</title>
       <link>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CF%87%CE%BF%CF%81%CE%B4%CE%B1/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%80%CE%B5%CE%BD%CF%84%CE%AC%CF%87%CE%BF%CF%81%CE%B4%CE%B1/</guid>
       <description></description>
     </item>
@@ -1303,7 +1312,7 @@
       <title>σαρακατσάνικα</title>
       <link>http://mousikobostani.github.io/tags/%CF%83%CE%B1%CF%81%CE%B1%CE%BA%CE%B1%CF%84%CF%83%CE%AC%CE%BD%CE%B9%CE%BA%CE%B1/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%83%CE%B1%CF%81%CE%B1%CE%BA%CE%B1%CF%84%CF%83%CE%AC%CE%BD%CE%B9%CE%BA%CE%B1/</guid>
       <description></description>
     </item>
@@ -1312,7 +1321,7 @@
       <title>pages</title>
       <link>http://mousikobostani.github.io/tags/pages/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/pages/</guid>
       <description></description>
     </item>
@@ -1321,7 +1330,7 @@
       <title>tag-cloud</title>
       <link>http://mousikobostani.github.io/tags/tag-cloud/</link>
       <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/tag-cloud/</guid>
       <description></description>
     </item>
@@ -1330,7 +1339,7 @@
       <title>ρυθμοί</title>
       <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</link>
       <pubDate>Tue, 06 Aug 2013 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</guid>
       <description></description>
     </item>

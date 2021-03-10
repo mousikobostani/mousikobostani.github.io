@@ -5,8 +5,8 @@
     <link>http://mousikobostani.github.io/tags/random/</link>
     <description>Recent content in random on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com</managingEditor>
-    <webMaster>igoumeninja@gmail.com</webMaster>
+    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
     <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mousikobostani.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>random zoumpe</title>
       <link>http://mousikobostani.github.io/post/random-zoumpe/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/post/random-zoumpe/</guid>
       <description>&#34;  $(document).ready(function(){ $(&#34;button&#34;).click(function(){ $.get(&#34;list.json&#34;, function(data, status){ window.open(data[Math.floor(Math.random() \* data.length)]); },&#34;json&#34;); }); });     &#34; target=&#34;\_blank&#34;  Πυροβολάτε!
  </description>
@@ -26,7 +26,7 @@
       <title>Τυχαίο Τραγούδι</title>
       <link>http://mousikobostani.github.io/post/random2/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/post/random2/</guid>
       <description> http://arisearch.github.io/javascript/2015/03/12_random-page-collector.html  &#34;  $(document).ready(function(){ $(&#34;button&#34;).click(function(){ $.get(&#34;171003\_list.json&#34;, function(data, status){ window.open(data[Math.floor(Math.random() \* data.length)]); },&#34;json&#34;); }); });     &#34; target=&#34;\_blank&#34;  Πυροβολάτε!
  </description>
@@ -36,7 +36,7 @@
       <title>Τυχαίο Τραγούδι</title>
       <link>http://mousikobostani.github.io/post/random230/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/post/random230/</guid>
       <description>**</description>
     </item>
@@ -45,7 +45,7 @@
       <title>Τυχαίο Τραγούδι</title>
       <link>http://mousikobostani.github.io/post/random/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com</author>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
       <guid>http://mousikobostani.github.io/post/random/</guid>
       <description></description>
     </item>
