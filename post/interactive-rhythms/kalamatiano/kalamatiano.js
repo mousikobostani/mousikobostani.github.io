@@ -27,12 +27,12 @@ function setup() {
     myPart.addPhrase(tekPhrase);
     myPart.setBPM(40);
 
-    button1 = createButton('play!'); button1.position(0, 20); button1.mousePressed(playKey);
-    button2 = createButton('stop!'); button2.position(120, 20); button2.mousePressed(noLoopKey);
-    button3 = createButton('bpm + 10'); button3.position(120, 120); button3.mousePressed(bpmKeyPlus10);
-    button4 = createButton('bpm - 10'); button4.position(0, 120); button4.mousePressed(bpmKeyMinus10);
-    button5 = createButton('bpm -  1'); button5.position(0, 80); button5.mousePressed(bpmKeyMinus);
-    button6 = createButton('bpm +   1'); button6.position(120, 80); button6.mousePressed(bpmKeyPlus);
+    button1 = createButton('play!'); button1.position(0, 70); button1.mousePressed(playKey);
+    button2 = createButton('stop!'); button2.position(120, 70); button2.mousePressed(noLoopKey);
+    button3 = createButton('bpm + 10'); button3.position(120, 170); button3.mousePressed(bpmKeyPlus10);
+    button4 = createButton('bpm - 10'); button4.position(0, 170); button4.mousePressed(bpmKeyMinus10);
+    button5 = createButton('bpm -  1'); button5.position(0, 130); button5.mousePressed(bpmKeyMinus);
+    button6 = createButton('bpm +   1'); button6.position(120, 130); button6.mousePressed(bpmKeyPlus);
 }
 function draw() {
     background(255);
@@ -41,8 +41,8 @@ function draw() {
     //noFill();
     stroke(0,255);
     //rect(400, 180, 520, 220);
-    text("bpm:", 20, 500);
-    text(bpm, 120, 500);
+    text("bpm:", 30, 40);
+    text(bpm, 120, 40);
 }
 function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
 function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
