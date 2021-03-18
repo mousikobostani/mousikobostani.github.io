@@ -3,14 +3,14 @@ function reload(id) {
     const iframe = document.getElementById(id);
     iframe.contentWindow.location.reload();
 }
-/*
+
 function resize(iframe) {
     iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
     iframe.contentWindow.addEventListener('resize', () => {
         iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
     });
 }
-*/
+
 function fullscreen(id) {
     const element = document.getElementById(id);
     // Supports most browsers and their versions.

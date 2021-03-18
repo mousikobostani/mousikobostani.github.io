@@ -8,9 +8,9 @@
   <title>;) Διαδραστικό Καλαματιανό</title>
   <meta property="og:title" content=";) Διαδραστικό Καλαματιανό" />
   <meta name="twitter:title" content=";) Διαδραστικό Καλαματιανό" />
-  <meta name="description" content="    ">
-  <meta property="og:description" content="    ">
-  <meta name="twitter:description" content="    ">
+  <meta name="description" content="     ">
+  <meta property="og:description" content="     ">
+  <meta name="twitter:description" content="     ">
   <meta name="author" content="Aris &amp; Katerina"/>
   <link href='http://mousikobostani.github.io/static/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="http://mousikobostani.github.io/img/avatar-icon.png" />
@@ -244,42 +244,57 @@ if (!doNotTrack) {
 let dumPat = [1,0,0,1,0,1,0];
 let tekPat = [0,1,1,0,1,0,1];
 
-let button1, button2, button3;
-let slider;
+let butt1, butt2, butt3, butt4, butt5;
+let slider, bpm = 40;
 
 function preload() {
-    createCanvas(100,100);
+    createCanvas(400,400);
     soundFormats(&#39;mp3&#39;, &#39;ogg&#39;);
     dum = loadSound(&#39;frameDrum&#39;);
     tek = loadSound(&#39;gongaE&#39;);
+    
 }
 
 function setup() {
+    createCanvas(1200,800);
     background(255);
     fill(0);
+    textSize(36);
     
     let dumPhrase = new p5.Phrase(&#39;dum&#39;, playDum, dumPat);
     let tekPhrase = new p5.Phrase(&#39;tek&#39;, playTek, tekPat);
     myPart = new p5.Part();
+
     myPart.addPhrase(dumPhrase);
     myPart.addPhrase(tekPhrase);
     myPart.setBPM(40);
 
-    button1 = createButton(&#39;play&#39;); button1.position(0, 20); button1.mousePressed(playKey);
-    button2 = createButton(&#39;stop&#39;); button2.position(0, 50); button2.mousePressed(noLoopKey);
-    button3 = createButton(&#39;bpm:&#39;); button3.position(0, 80); button3.mousePressed(bpmKey);
-    
-    slider = createSlider(30, 180, 40, 1);
-    slider.position(80, 85);
-    slider.style(&#39;width&#39;, &#39;80px&#39;);
+    button1 = createButton(&#39;play!&#39;); button1.position(0, 20); button1.mousePressed(playKey);
+    button2 = createButton(&#39;stop!&#39;); button2.position(120, 20); button2.mousePressed(noLoopKey);
+    button3 = createButton(&#39;bpm &#43; 10&#39;); button3.position(120, 120); button3.mousePressed(bpmKeyPlus10);
+    button4 = createButton(&#39;bpm - 10&#39;); button4.position(0, 120); button4.mousePressed(bpmKeyMinus10);
+    button5 = createButton(&#39;bpm -  1&#39;); button5.position(0, 80); button5.mousePressed(bpmKeyMinus);
+    button6 = createButton(&#39;bpm &#43;   1&#39;); button6.position(120, 80); button6.mousePressed(bpmKeyPlus);
 }
-
-function draw() { myPart.setBPM(slider.value()); }
+function draw() {
+    background(255);
+    //bpm = slider.value();
+    myPart.setBPM(bpm);
+    //noFill();
+    stroke(0,255);
+    //rect(400, 180, 520, 220);
+    text(&#34;bpm:&#34;, 20, 500);
+    text(bpm, 120, 500);
+}
 function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
 function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
 function playKey() { userStartAudio(); myPart.start(); myPart.loop(); }
 function noLoopKey() { myPart.noLoop(); }
-function bpmKey() {  }
+function bpmKeyPlus10() { bpm = bpm &#43; 10; }
+function bpmKeyMinus10() { bpm = bpm - 10; }
+function bpmKeyPlus() { bpm = bpm &#43; 1; }
+function bpmKeyMinus() { bpm = bpm - 1; }
+
 
   
         &lt;/script&gt;
@@ -290,6 +305,7 @@ function bpmKey() {  }
     </div>
 </div>
 
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#ff813f" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
       </article>
       <hr>
