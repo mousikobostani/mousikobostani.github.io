@@ -41,8 +41,8 @@ function draw() {
     //noFill();
     stroke(0,255);
     //rect(400, 180, 520, 220);
-    text("bpm:", 30, 40);
-    text(bpm, 120, 40);
+    text("bpm:", 0, 40);
+    text(bpm, 90, 40);
 }
 function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
 function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
