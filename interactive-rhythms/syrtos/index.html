@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>;) Διαδραστικός Συρτός</title>
-  <meta property="og:title" content=";) Διαδραστικός Συρτός" />
-  <meta name="twitter:title" content=";) Διαδραστικός Συρτός" />
-  <meta name="description" content="    ">
-  <meta property="og:description" content="    ">
-  <meta name="twitter:description" content="    ">
+  <title>Συρτός</title>
+  <meta property="og:title" content="Συρτός" />
+  <meta name="twitter:title" content="Συρτός" />
+  <meta name="description" content="Υπό κατασκευή &hellip;  Photo from Unsplash by Mark König   ">
+  <meta property="og:description" content="Υπό κατασκευή &hellip;  Photo from Unsplash by Mark König   ">
+  <meta name="twitter:description" content="Υπό κατασκευή &hellip;  Photo from Unsplash by Mark König   ">
   <meta name="author" content="Aris &amp; Katerina"/>
   <link href='http://mousikobostani.github.io/static/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="http://mousikobostani.github.io/img/avatar-icon.png" />
@@ -209,7 +209,7 @@ if (!doNotTrack) {
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="interactive-rhythms-heading">
-              <h1>;) Διαδραστικός Συρτός</h1>
+              <h1>Συρτός</h1>
                 
                 
             </div>
@@ -225,97 +225,18 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        
+        <p>Υπό κατασκευή &hellip;
 
 
-<div class="sketch">
-    <div class="sketch-container">
-        <iframe id="p5-sound-js" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
-  &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-    &lt;head&gt;
-        &lt;style&gt;
-            html, body {
-                width: 100%;
-                padding: 0;
-                margin: 0;
-            }
-            main, .p5Canvas {
-                width: 100% !important;
-                height: 100% !important;
-                display: block;
-                image-rendering: pixelated;
-            }
-        &lt;/style&gt;
-        &lt;script src=&#34;https://cdn.jsdelivr.net/npm/p5@latest/lib/p5.min.js&#34;&gt;&lt;/script&gt;
-        &lt;script src=&#34;https://cdn.jsdelivr.net/npm/p5@1.2.0/lib/addons/p5.sound.js&#34;&gt;&lt;/script&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;script&gt;
-            
-    let dum, tek, myPart;
-let dumPat = [1,0,0,0,0,0,0,0];
-let tekPat = [0,0,0,1,0,0,1,0];
-let butt1, butt2, butt3, butt4, butt5;
-let slider, bpm = 80;
-
-function preload() {
-    createCanvas(400,400);
-    soundFormats(&#39;mp3&#39;, &#39;ogg&#39;);
-    dum = loadSound(&#39;frameDrum&#39;);
-    tek = loadSound(&#39;gongaE&#39;);
-    
-}
-
-function setup() {
-    createCanvas(1200,800);
-    background(255);
-    fill(0);
-    textSize(36);
-    
-    let dumPhrase = new p5.Phrase(&#39;dum&#39;, playDum, dumPat);
-    let tekPhrase = new p5.Phrase(&#39;tek&#39;, playTek, tekPat);
-    myPart = new p5.Part();
-
-    myPart.addPhrase(dumPhrase);
-    myPart.addPhrase(tekPhrase);
-    myPart.setBPM(40);
-
-    button1 = createButton(&#39;play!&#39;); button1.position(0, 70); button1.mousePressed(playKey);
-    button2 = createButton(&#39;stop!&#39;); button2.position(120, 70); button2.mousePressed(noLoopKey);
-    button3 = createButton(&#39;bpm &#43; 10&#39;); button3.position(120, 170); button3.mousePressed(bpmKeyPlus10);
-    button4 = createButton(&#39;bpm - 10&#39;); button4.position(0, 170); button4.mousePressed(bpmKeyMinus10);
-    button5 = createButton(&#39;bpm -  1&#39;); button5.position(0, 130); button5.mousePressed(bpmKeyMinus);
-    button6 = createButton(&#39;bpm &#43;   1&#39;); button6.position(120, 130); button6.mousePressed(bpmKeyPlus);
-}
-function draw() {
-    background(255);
-    //bpm = slider.value();
-    myPart.setBPM(bpm);
-    //noFill();
-    stroke(0,255);
-    //rect(400, 180, 520, 220);
-    text(&#34;bpm:&#34;, 0, 40);
-    text(bpm, 90, 40);
-}
-function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
-function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
-function playKey() { userStartAudio(); myPart.start(); myPart.loop(); }
-function noLoopKey() { myPart.noLoop(); }
-function bpmKeyPlus10() { bpm = bpm &#43; 10; }
-function bpmKeyMinus10() { bpm = bpm - 10; }
-function bpmKeyPlus() { bpm = bpm &#43; 1; }
-function bpmKeyMinus() { bpm = bpm - 1; }
-
-  
-        &lt;/script&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-
-" onload="resize(this)" scrolling="no" frameborder="0"></iframe>
-    </div>
+<div class="cover">
+    <img class="cover" src="https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=MnwyMTAzMTZ8MHwxfGFsbHx8fHx8fHx8fDE2MTY3OTAzNDU&amp;ixlib=rb-1.2.1&amp;q=85&fit=clip&h=700" title="Road sign: construction ahead. For whatever is under construction or work in progress :-) " alt="red and white no smoking sign">
+    <p>
+        Photo from <a href="https://unsplash.com/photos/Uu5fnOkFAdA" target="_blank">Unsplash</a>
+        by <a href="https://unsplash.com/@markkoenig" target="_blank">Mark König</a>
+    </p>
+    <hr>
 </div>
-
+</p>
 
       </article>
       <hr>
