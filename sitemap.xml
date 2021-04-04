@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mousikobostani.github.io/post/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/about/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/cucu/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/el-pato-renato/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/los-patitos-en-la-laguna/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CE%B9%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mousikobostani.github.io/tags/interactive-rhythm/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mousikobostani.github.io/interactive-rhythms/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +73,7 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/susanita-tiene-un-raton/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CE%B9%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%BA%CE%AC/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,12 +203,12 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/interactive-rhythms/pogonisio/</loc>
+    <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%80%CF%89%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%B9%CE%BF/</loc>
+    <loc>http://mousikobostani.github.io/interactive-rhythms/pogonisio/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -1748,11 +1768,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/stis-attaleias-ta-nera/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
@@ -1849,6 +1864,11 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/tags/%CF%83%CE%BF%CF%8D%CF%83%CF%84%CE%B1/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -2293,11 +2313,6 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/about/</loc>
-    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/aspro-triantafyllo/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -2603,17 +2618,7 @@
   </url>
   
   <url>
-    <loc>http://mousikobostani.github.io/post/gaitanaki/</loc>
-    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mousikobostani.github.io/post/theiakos-selfo/</loc>
-    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mousikobostani.github.io/post/kalanta-thrakis/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -2629,6 +2634,16 @@
   
   <url>
     <loc>http://mousikobostani.github.io/tags/%CE%B3%CE%AC%CE%BC%CE%BF%CF%85/</loc>
+    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/gaitanaki/</loc>
+    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mousikobostani.github.io/post/kalanta-thrakis/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
   </url>
   
