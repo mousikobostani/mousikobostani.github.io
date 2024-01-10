@@ -2,34 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>δωδεκάνησα on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/</link>
     <description>Recent content in δωδεκάνησα on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%B4%CF%89%CE%B4%CE%B5%CE%BA%CE%AC%CE%BD%CE%B7%CF%83%CE%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άρωμα</title>
-      <link>http://mousikobostani.github.io/post/aroma/</link>
+      <link>https://mousikobostani.github.io/post/aroma/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/aroma/</guid>
-      <description>Αχι, ήθελα να \`μουν άρωμα που
-που βάζεις στα μαλλιά σου, που βάζεις
-Αχι, σε κάθε σου αναπνοή να
-να μπαίνω στη καρδιά σου να μπαίνω
-Αχι, Ολου του κόσμου τα καλά να
-να τα \`χα δεν τα θέλω, δεν τα θέλω
-Αχι, ας έχει ο κόσμος τα καλά και
-κι εγώ αυτόν που θέλω, που θέλω
-Αχι, Για σένα κλαίω και πονώ και
-και βαριαναστενάζω, αχ για σένα
-Μα τέτοιο πόνο με χαρές χι</description>
+      <guid>https://mousikobostani.github.io/post/aroma/</guid>
+      <description>Αχι, ήθελα να \`μουν άρωμα που&#xA;που βάζεις στα μαλλιά σου, που βάζεις&#xA;Αχι, σε κάθε σου αναπνοή να&#xA;να μπαίνω στη καρδιά σου να μπαίνω&#xA;Αχι, Ολου του κόσμου τα καλά να&#xA;να τα \`χα δεν τα θέλω, δεν τα θέλω&#xA;Αχι, ας έχει ο κόσμος τα καλά και&#xA;κι εγώ αυτόν που θέλω, που θέλω&#xA;Αχι, Για σένα κλαίω και πονώ και&#xA;και βαριαναστενάζω, αχ για σένα</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,45 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mahur on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/mahur/</link>
+    <link>https://mousikobostani.github.io/tags/mahur/</link>
     <description>Recent content in mahur on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/mahur/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/mahur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mahur Saz Semai - Refik Talat Alpman</title>
-      <link>http://mousikobostani.github.io/post/mahur-ss-refik/</link>
+      <link>https://mousikobostani.github.io/post/mahur-ss-refik/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mahur-ss-refik/</guid>
+      <guid>https://mousikobostani.github.io/post/mahur-ss-refik/</guid>
       <description>score @ neyzen</description>
     </item>
-    
     <item>
       <title>Mahur Saz Semai - Nikolaki</title>
-      <link>http://mousikobostani.github.io/post/mahur-ss-nikolaki/</link>
+      <link>https://mousikobostani.github.io/post/mahur-ss-nikolaki/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mahur-ss-nikolaki/</guid>
+      <guid>https://mousikobostani.github.io/post/mahur-ss-nikolaki/</guid>
       <description>score @ neyzen</description>
     </item>
-    
     <item>
       <title>Μακάμ Μαχούρ</title>
-      <link>http://mousikobostani.github.io/post/makam-mahur/</link>
+      <link>https://mousikobostani.github.io/post/makam-mahur/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/makam-mahur/</guid>
-      <description>pic.twitter.com/C39yArFbSd
-&amp;mdash; Mousiko Bostani (@MousikoB) November 18, 2018  Άρχισε ακούγοντας το Mahur Saz Semai - Kemenceci Nikolaki παιγμένο απο τον Σωκράτη Σινόπουλο, τον Ara Dinkjian και άλλους παιχταράδες. Με μάγεψε ο ήχος του μακάμ αυτού. Το ερωτεύτηκα. Ψάχνοντας ανακάλυψα οτι με το όνομα αυτό είναι μια πόλη στη Ινδία γεννέτηρα του επιφαινόμενου Dattatreya και στο Αρτζεμπαιτζάν σήμαίνει μελωδία.
-pic.twitter.com/Kt55UC3aGH
-&amp;mdash; Mousiko Bostani (@MousikoB) November 18, 2018  Το μακάμι ανήκει στη οικογένεια του Rast.</description>
+      <guid>https://mousikobostani.github.io/post/makam-mahur/</guid>
+      <description>pic.twitter.com/C39yArFbSd&#xA;&amp;mdash; Mousiko Bostani (@MousikoB) November 18, 2018 Άρχισε ακούγοντας το Mahur Saz Semai - Kemenceci Nikolaki παιγμένο απο τον Σωκράτη Σινόπουλο, τον Ara Dinkjian και άλλους παιχταράδες. Με μάγεψε ο ήχος του μακάμ αυτού. Το ερωτεύτηκα. Ψάχνοντας ανακάλυψα οτι με το όνομα αυτό είναι μια πόλη στη Ινδία γεννέτηρα του επιφαινόμενου Dattatreya και στο Αρτζεμπαιτζάν σήμαίνει μελωδία.&#xA;pic.twitter.com/Kt55UC3aGH&#xA;&amp;mdash; Mousiko Bostani (@MousikoB) November 18, 2018 Το μακάμι ανήκει στη οικογένεια του Rast.</description>
     </item>
-    
   </channel>
 </rss>

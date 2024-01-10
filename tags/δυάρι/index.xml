@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>δυάρι on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/</link>
     <description>Recent content in δυάρι on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%B4%CF%85%CE%AC%CF%81%CE%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Χορός των Κουταλιών</title>
-      <link>http://mousikobostani.github.io/post/horos-ton-koutalion/</link>
+      <link>https://mousikobostani.github.io/post/horos-ton-koutalion/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/horos-ton-koutalion/</guid>
+      <guid>https://mousikobostani.github.io/post/horos-ton-koutalion/</guid>
       <description>&amp;ldquo;Χορός των κονταλιών-Κόνιαλι. Αντικριστός χορός που χορευόταν σ&amp;rsquo; ολόκληρη την Καππαδοκία και που χορεύεται ακόμη και σήμερα από όλους τους πρόσφυγες δεύτερης και τρίτης γενιάς και γι&amp;rsquo; αυτό μπορούμε να το χαρακτηρίσουμε ως πανκαππαδοκικό χορό. Παλιά χορευόταν μόνο από ζευγάρια γυναικών ή ανδρών ή από παντρεμένα ανδρόγυνα. Σήμερα χορεύεται περισσότερο μικτός. Ο ρυθμός του είναι πιο αργός όταν χορεύεται μόνο από γυναίκες, που κινούν τα χέρια δεξιά-αριστερά συγχρόνως με τα βήματα.</description>
     </item>
-    
   </channel>
 </rss>

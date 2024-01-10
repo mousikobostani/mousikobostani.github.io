@@ -2,50 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>buselik on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/buselik/</link>
+    <link>https://mousikobostani.github.io/tags/buselik/</link>
     <description>Recent content in buselik on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/buselik/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/buselik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buselik Pesrev - Cantemir</title>
-      <link>http://mousikobostani.github.io/post/buselik-pesrev-kantemir/</link>
+      <link>https://mousikobostani.github.io/post/buselik-pesrev-kantemir/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/buselik-pesrev-kantemir/</guid>
+      <guid>https://mousikobostani.github.io/post/buselik-pesrev-kantemir/</guid>
       <description>score @ http://www.eksd.org.tr about Kantemir</description>
     </item>
-    
     <item>
       <title>Buselik Saz Semaisi - Mutlu Torun</title>
-      <link>http://mousikobostani.github.io/post/buselik-ss-multu/</link>
+      <link>https://mousikobostani.github.io/post/buselik-ss-multu/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/buselik-ss-multu/</guid>
-      <description>       score @ neyzen
-About Multu:
- Gönül Makamı - Mutlu Torun http://www.turkishculture.org/whoiswho/mutlu-torun-378.htm  </description>
+      <guid>https://mousikobostani.github.io/post/buselik-ss-multu/</guid>
+      <description> score @ neyzen&#xA;About Multu:&#xA;Gönül Makamı - Mutlu Torun http://www.turkishculture.org/whoiswho/mutlu-torun-378.htm </description>
     </item>
-    
     <item>
       <title>Καθρέφτης θέλω να ´μουνα</title>
-      <link>http://mousikobostani.github.io/post/kathreptis-thelo-na-mouna/</link>
+      <link>https://mousikobostani.github.io/post/kathreptis-thelo-na-mouna/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/kathreptis-thelo-na-mouna/</guid>
-      <description>[Καθρέφτης θέλω να &#39;μουνα , μέσα στην κάμαρα σου] χ2
-να σ&#39; έβλεπα κάθε στιγμή , κρυφά από τη μαμά σου.
-κάθε στιγμή βρε μάτια μου , αχ εγώ θα το κοιτούσα
-το έμορφο κορμάκι σου και θα το λαχταρούσα.
-[Κάθε φορά που θα &#39;ρχεσαι , να φτιάχνεις τα μαλλιά σου] χ2
-τότε κι εγώ θα λαχταρώ , τα κάλλη τα δικά σου.
-Καθρέφτης αχ ας ήμουνα , στην τσάντα τη δική σου</description>
+      <guid>https://mousikobostani.github.io/post/kathreptis-thelo-na-mouna/</guid>
+      <description>[Καθρέφτης θέλω να &#39;μουνα , μέσα στην κάμαρα σου] χ2&#xA;να σ&#39; έβλεπα κάθε στιγμή , κρυφά από τη μαμά σου.&#xA;κάθε στιγμή βρε μάτια μου , αχ εγώ θα το κοιτούσα&#xA;το έμορφο κορμάκι σου και θα το λαχταρούσα.&#xA;[Κάθε φορά που θα &#39;ρχεσαι , να φτιάχνεις τα μαλλιά σου] χ2&#xA;τότε κι εγώ θα λαχταρώ , τα κάλλη τα δικά σου.&#xA;Καθρέφτης αχ ας ήμουνα , στην τσάντα τη δική σου</description>
     </item>
-    
   </channel>
 </rss>

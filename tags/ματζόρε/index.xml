@@ -2,37 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ματζόρε on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/</link>
     <description>Recent content in ματζόρε on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%BC%CE%B1%CF%84%CE%B6%CF%8C%CF%81%CE%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Η Φρόσω</title>
-      <link>http://mousikobostani.github.io/post/froso/</link>
+      <link>https://mousikobostani.github.io/post/froso/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/froso/</guid>
-      <description>Τι έχεις Φρόσω μ’ κι όλο κλαις
-και μένανε δε μου το λες;
-Τι να σου πω, σουλτάνα μου,
-μάνα μου, ματζουράνα μου!
-Με πάντρεψες από μικρή,
-μ’ αυτό το γέρο, το μπεκρή.
-Κι εγώ τον πήρα άντρα μου,
-μάνα μου, ματζουράνα μου!
-Να σου το κρύψω δεν μπορώ,
-μανούλα μου, να σε χαρώ!
-Λυπήσου πια το κλάμα μου,
-μάνα μου, ματζουράνα μου!
-Τον όρκο μου, τον πάτησα,
-το γέρο τον παράτησα.</description>
+      <guid>https://mousikobostani.github.io/post/froso/</guid>
+      <description>Τι έχεις Φρόσω μ’ κι όλο κλαις&#xA;και μένανε δε μου το λες;&#xA;Τι να σου πω, σουλτάνα μου,&#xA;μάνα μου, ματζουράνα μου!&#xA;Με πάντρεψες από μικρή,&#xA;μ’ αυτό το γέρο, το μπεκρή.&#xA;Κι εγώ τον πήρα άντρα μου,&#xA;μάνα μου, ματζουράνα μου!&#xA;Να σου το κρύψω δεν μπορώ,&#xA;μανούλα μου, να σε χαρώ!&#xA;Λυπήσου πια το κλάμα μου,&#xA;μάνα μου, ματζουράνα μου!&#xA;Τον όρκο μου, τον πάτησα,&#xA;το γέρο τον παράτησα.</description>
     </item>
-    
   </channel>
 </rss>

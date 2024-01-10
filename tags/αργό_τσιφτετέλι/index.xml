@@ -2,37 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>αργό_τσιφτετέλι on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/</link>
     <description>Recent content in αργό_τσιφτετέλι on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C_%CF%84%CF%83%CE%B9%CF%86%CF%84%CE%B5%CF%84%CE%AD%CE%BB%CE%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άμαν Ντόκτορ</title>
-      <link>http://mousikobostani.github.io/post/aman-doctor/</link>
+      <link>https://mousikobostani.github.io/post/aman-doctor/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/aman-doctor/</guid>
-      <description>Αχ, δε μου λέτε πού \`ν’ αυτός ο ντόκτορ
-που γιατρεύει τις πληγές, αμάν ντόκτορ,
-που γιατρεύει τις πληγές.
-Για να γιάνει και τις εδικές μου
-που σαν τις μετρήσεις κλαις,
-αμάν ντόκτορ.
-Αμάν, οι πληγές μου μένα είναι μεγάλες
-και δεν έχουν γιατρειά, αμάν ντόκτορ,
-και δεν έχουν γιατρειά.
-Η αγάπη μου με απαρνήθη
-και έφυγε στα μακρυά,
-αμάν ντόκτορ.
-Αμάν, αμάν ντόκτορ, πες μου τι κάνω,
-δεν αισθάνομαι καλά, αμάν ντόκτορ,</description>
+      <guid>https://mousikobostani.github.io/post/aman-doctor/</guid>
+      <description>Αχ, δε μου λέτε πού \`ν’ αυτός ο ντόκτορ&#xA;που γιατρεύει τις πληγές, αμάν ντόκτορ,&#xA;που γιατρεύει τις πληγές.&#xA;Για να γιάνει και τις εδικές μου&#xA;που σαν τις μετρήσεις κλαις,&#xA;αμάν ντόκτορ.&#xA;Αμάν, οι πληγές μου μένα είναι μεγάλες&#xA;και δεν έχουν γιατρειά, αμάν ντόκτορ,&#xA;και δεν έχουν γιατρειά.&#xA;Η αγάπη μου με απαρνήθη&#xA;και έφυγε στα μακρυά,&#xA;αμάν ντόκτορ.&#xA;Αμάν, αμάν ντόκτορ, πες μου τι κάνω,&#xA;δεν αισθάνομαι καλά, αμάν ντόκτορ,</description>
     </item>
-    
   </channel>
 </rss>

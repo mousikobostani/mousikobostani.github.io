@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kurdilihicazkar on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/kurdilihicazkar/</link>
+    <link>https://mousikobostani.github.io/tags/kurdilihicazkar/</link>
     <description>Recent content in kurdilihicazkar on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/kurdilihicazkar/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/kurdilihicazkar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kurdilihicazkar Longa - Kemani Sebuh</title>
-      <link>http://mousikobostani.github.io/post/kurdilihicazkar-longa-kemani/</link>
+      <link>https://mousikobostani.github.io/post/kurdilihicazkar-longa-kemani/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/kurdilihicazkar-longa-kemani/</guid>
+      <guid>https://mousikobostani.github.io/post/kurdilihicazkar-longa-kemani/</guid>
       <description>score @ neyzen</description>
     </item>
-    
     <item>
       <title>Kurdilihicazkar Pesrev - Tanburi Cemil Bey</title>
-      <link>http://mousikobostani.github.io/post/kurdilihicazkar-pesrev-tanburi-cemil-bey/</link>
+      <link>https://mousikobostani.github.io/post/kurdilihicazkar-pesrev-tanburi-cemil-bey/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/kurdilihicazkar-pesrev-tanburi-cemil-bey/</guid>
+      <guid>https://mousikobostani.github.io/post/kurdilihicazkar-pesrev-tanburi-cemil-bey/</guid>
       <description>score @ neyzen</description>
     </item>
-    
   </channel>
 </rss>

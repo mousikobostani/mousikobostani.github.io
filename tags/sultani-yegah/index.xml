@@ -2,34 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sultani-yegah on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/sultani-yegah/</link>
+    <link>https://mousikobostani.github.io/tags/sultani-yegah/</link>
     <description>Recent content in sultani-yegah on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/sultani-yegah/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/sultani-yegah/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sultani-Yegah Saz Semai - Nedim Aga</title>
-      <link>http://mousikobostani.github.io/post/sultani-ss-nedim-aga/</link>
+      <link>https://mousikobostani.github.io/post/sultani-ss-nedim-aga/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/sultani-ss-nedim-aga/</guid>
-      <description>http://neyzen.com/nota_arsivi/02_klasik_eserler/085_sultaniyegah/sultaniyegah_ss_nedim_aga.pdf
-  </description>
+      <guid>https://mousikobostani.github.io/post/sultani-ss-nedim-aga/</guid>
+      <description>http://neyzen.com/nota_arsivi/02_klasik_eserler/085_sultaniyegah/sultaniyegah_ss_nedim_aga.pdf</description>
     </item>
-    
     <item>
       <title>Μακάμ Σουλτανί Γιεγκιάχ</title>
-      <link>http://mousikobostani.github.io/post/sultani-yegah/</link>
+      <link>https://mousikobostani.github.io/post/sultani-yegah/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/sultani-yegah/</guid>
-      <description>  </description>
+      <guid>https://mousikobostani.github.io/post/sultani-yegah/</guid>
+      <description> </description>
     </item>
-    
   </channel>
 </rss>

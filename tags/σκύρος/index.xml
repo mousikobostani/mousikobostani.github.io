@@ -2,41 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>σκύρος on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/</link>
     <description>Recent content in σκύρος on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CF%83%CE%BA%CF%8D%CF%81%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Θαλασσακι</title>
-      <link>http://mousikobostani.github.io/post/thalassaki/</link>
+      <link>https://mousikobostani.github.io/post/thalassaki/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/thalassaki/</guid>
-      <description>Γίνε πουλί μου θάλασσα
-κι εγώ το ακρογιάλι
-να ’ρχεσαι με τα κύμματα
-στην εδική μου αγκάλη
-Αμυγδαλάκι τσάκισα
-και μέσα σε ζωγράφισα
-Ο μισεμός είναι καημός
-το έχε γεια είναι ζάλη
-και το καλώς ορίσατε
-είναι χαρά μεγάλη
-Θάλασσα κι αλμυρό νερό
-να σου κακιώσω δεν μπορώ
-Σταλαγματιά σταλαγματιά
-το μάρμαρο τρυπιέται
-κι αγάπη που δεν παίρνεται
-δεν πρέπει ν’ αγαπιέται
-Θαλασσα θαλασσάκι μου
-και φέρε το πουλάκι μου</description>
+      <guid>https://mousikobostani.github.io/post/thalassaki/</guid>
+      <description>Γίνε πουλί μου θάλασσα&#xA;κι εγώ το ακρογιάλι&#xA;να ’ρχεσαι με τα κύμματα&#xA;στην εδική μου αγκάλη&#xA;Αμυγδαλάκι τσάκισα&#xA;και μέσα σε ζωγράφισα&#xA;Ο μισεμός είναι καημός&#xA;το έχε γεια είναι ζάλη&#xA;και το καλώς ορίσατε&#xA;είναι χαρά μεγάλη&#xA;Θάλασσα κι αλμυρό νερό&#xA;να σου κακιώσω δεν μπορώ&#xA;Σταλαγματιά σταλαγματιά&#xA;το μάρμαρο τρυπιέται&#xA;κι αγάπη που δεν παίρνεται&#xA;δεν πρέπει ν’ αγαπιέται&#xA;Θαλασσα θαλασσάκι μου&#xA;και φέρε το πουλάκι μου</description>
     </item>
-    
   </channel>
 </rss>

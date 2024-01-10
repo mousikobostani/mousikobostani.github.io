@@ -2,37 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>σάμος on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/</link>
     <description>Recent content in σάμος on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CF%83%CE%AC%CE%BC%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Το Πλατανιώτικο νερό</title>
-      <link>http://mousikobostani.github.io/post/to-plataniotiko-nero/</link>
+      <link>https://mousikobostani.github.io/post/to-plataniotiko-nero/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/to-plataniotiko-nero/</guid>
-      <description>
-Να &#39;χα νερό του Πλάτανου,
-κρασί απ&#39; την Κολόνα
-να &#39;χα και την αγάπη μου
-να τη φιλώ στο στόμα - κρασί απ&#39; την κολόνα.
-Το Πλατανιώτικο νερό
-γιατρεύει κάθε πόνο
-κι όποιος το πιει παντρεύεται
-Σαμιωτοπούλα μόνο, γιατρεύει κάθε πόνο.
-Σαμιώτικο, γλυκό κρασί
-θα πιώ για να μεθύσω
-στη ξενιτιά που βρίσκομαι,
-να μη σε λησμονήσω, θα πιω για να μεθύσω.
-  </description>
+      <guid>https://mousikobostani.github.io/post/to-plataniotiko-nero/</guid>
+      <description>Να &#39;χα νερό του Πλάτανου,&#xA;κρασί απ&#39; την Κολόνα&#xA;να &#39;χα και την αγάπη μου&#xA;να τη φιλώ στο στόμα - κρασί απ&#39; την κολόνα.&#xA;Το Πλατανιώτικο νερό&#xA;γιατρεύει κάθε πόνο&#xA;κι όποιος το πιει παντρεύεται&#xA;Σαμιωτοπούλα μόνο, γιατρεύει κάθε πόνο.&#xA;Σαμιώτικο, γλυκό κρασί&#xA;θα πιώ για να μεθύσω&#xA;στη ξενιτιά που βρίσκομαι,&#xA;να μη σε λησμονήσω, θα πιω για να μεθύσω.</description>
     </item>
-    
   </channel>
 </rss>

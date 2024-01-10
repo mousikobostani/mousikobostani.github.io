@@ -2,42 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kurdi on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/kurdi/</link>
+    <link>https://mousikobostani.github.io/tags/kurdi/</link>
     <description>Recent content in kurdi on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/kurdi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mousikobostani.github.io/tags/kurdi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basa Bela</title>
-      <link>http://mousikobostani.github.io/post/basa-bela/</link>
+      <link>https://mousikobostani.github.io/post/basa-bela/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/basa-bela/</guid>
-      <description>     </description>
+      <guid>https://mousikobostani.github.io/post/basa-bela/</guid>
+      <description> </description>
     </item>
-    
     <item>
       <title>Kurdi Saz Semai - Masum Ask - Giksel Baktagir</title>
-      <link>http://mousikobostani.github.io/post/kurdi-ss-goksel/</link>
+      <link>https://mousikobostani.github.io/post/kurdi-ss-goksel/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/kurdi-ss-goksel/</guid>
+      <guid>https://mousikobostani.github.io/post/kurdi-ss-goksel/</guid>
       <description>score @ ney.im</description>
     </item>
-    
     <item>
       <title>Μακάμ Κιουρντί</title>
-      <link>http://mousikobostani.github.io/post/makam-kurdi/</link>
+      <link>https://mousikobostani.github.io/post/makam-kurdi/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/makam-kurdi/</guid>
-      <description>    </description>
+      <guid>https://mousikobostani.github.io/post/makam-kurdi/</guid>
+      <description> </description>
     </item>
-    
   </channel>
 </rss>

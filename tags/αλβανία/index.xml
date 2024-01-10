@@ -2,47 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>αλβανία on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/</link>
     <description>Recent content in αλβανία on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%B1%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Albanian Clarinet Players</title>
-      <link>http://mousikobostani.github.io/post/albanian-clarinet-players/</link>
+      <link>https://mousikobostani.github.io/post/albanian-clarinet-players/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/albanian-clarinet-players/</guid>
-      <description>  Adventures in Ethnic Music: Hot Albanian Clarinets
-  Laver Bariu
- Kaba me klarinetë https://myspace.com/laverbariu/music/songs    Remzi Lela
- REMZI LELA    Nevruz Nure(LULUSHI)
- Kaba e Lulushit (Traditions of ALBANIA) (Luajtur në klarinetë nga Emiljano Ajdini)    </description>
+      <guid>https://mousikobostani.github.io/post/albanian-clarinet-players/</guid>
+      <description> Adventures in Ethnic Music: Hot Albanian Clarinets&#xA;Laver Bariu&#xA;Kaba me klarinetë https://myspace.com/laverbariu/music/songs Remzi Lela&#xA;REMZI LELA Nevruz Nure(LULUSHI)&#xA;Kaba e Lulushit (Traditions of ALBANIA) (Luajtur në klarinetë nga Emiljano Ajdini) </description>
     </item>
-    
     <item>
       <title>Premeti vinji un päshe</title>
-      <link>http://mousikobostani.github.io/post/premeti-vinji/</link>
+      <link>https://mousikobostani.github.io/post/premeti-vinji/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/premeti-vinji/</guid>
-      <description>Aide lai fitsiori tsi hits ashe, o lailji fitsiori
-Premeti vuni un pishe, o lailji fitsiori
-Aide un pishe cu multe ashkeri, moi lailji fitsiori
-moi n&#39;amvertire tu limeri, lailji fitsiori
-Voi fitsiori nu v&#39;asperats, o lailji fitsiori
-Aide pi ma mare aminats, o lailji fitsiori
-κ.α.
-Βρε παιδιά τι είστε έτσι, καημένα παιδιά
-στην Πρεμέτη ήρθε ένας πασάς, καημένα παιδιά
-ένας πασάς με πολύ στρατό, καημένα παιδιά
-μας περικύκλωσαν στο λημέρι, καημένα παιδιά</description>
+      <guid>https://mousikobostani.github.io/post/premeti-vinji/</guid>
+      <description>Aide lai fitsiori tsi hits ashe, o lailji fitsiori&#xA;Premeti vuni un pishe, o lailji fitsiori&#xA;Aide un pishe cu multe ashkeri, moi lailji fitsiori&#xA;moi n&#39;amvertire tu limeri, lailji fitsiori&#xA;Voi fitsiori nu v&#39;asperats, o lailji fitsiori&#xA;Aide pi ma mare aminats, o lailji fitsiori&#xA;κ.α.&#xA;Βρε παιδιά τι είστε έτσι, καημένα παιδιά&#xA;στην Πρεμέτη ήρθε ένας πασάς, καημένα παιδιά&#xA;ένας πασάς με πολύ στρατό, καημένα παιδιά&#xA;μας περικύκλωσαν στο λημέρι, καημένα παιδιά</description>
     </item>
-    
   </channel>
 </rss>

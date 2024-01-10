@@ -2,34 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nihavend on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/nihavend/</link>
+    <link>https://mousikobostani.github.io/tags/nihavend/</link>
     <description>Recent content in nihavend on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/nihavend/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/nihavend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Γιάφ Γιούφ</title>
-      <link>http://mousikobostani.github.io/post/giaf-giouf/</link>
+      <link>https://mousikobostani.github.io/post/giaf-giouf/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/giaf-giouf/</guid>
-      <description>Στη φυλακή με βάλανε στο νούμερο το ένα (δις)
-κι αδίκως με δικάσανε γιατί αγαπώ εσένα (δις)
-Γιαφ γιουφ δε σε θέλω πια
-δε σε θέλω μην περνάς (δις)
-Τράβα μάγκα στη δουλειά σου
-γιατί θα &#39;βρεις τον μπελά σου
-με εκείνη με εκείνη που αγαπάς
-Τράβα μάγκα στη δουλειά σου
-γιατί θα &#39;βρεις τον μπελά σου
-γιατί μου &#39;γινες μπελάς
-Στη φυλακή με βάλανε στο νούμερο το πέντε (δις)</description>
+      <guid>https://mousikobostani.github.io/post/giaf-giouf/</guid>
+      <description>Στη φυλακή με βάλανε στο νούμερο το ένα (δις)&#xA;κι αδίκως με δικάσανε γιατί αγαπώ εσένα (δις)&#xA;Γιαφ γιουφ δε σε θέλω πια&#xA;δε σε θέλω μην περνάς (δις)&#xA;Τράβα μάγκα στη δουλειά σου&#xA;γιατί θα &#39;βρεις τον μπελά σου&#xA;με εκείνη με εκείνη που αγαπάς&#xA;Τράβα μάγκα στη δουλειά σου&#xA;γιατί θα &#39;βρεις τον μπελά σου&#xA;γιατί μου &#39;γινες μπελάς&#xA;Στη φυλακή με βάλανε στο νούμερο το πέντε (δις)</description>
     </item>
-    
   </channel>
 </rss>

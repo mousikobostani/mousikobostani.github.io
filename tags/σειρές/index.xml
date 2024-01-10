@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>σειρές on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/</link>
     <description>Recent content in σειρές on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CF%83%CE%B5%CE%B9%CF%81%CE%AD%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Πωγωνίσια</title>
-      <link>http://mousikobostani.github.io/post/pvgvnisia/</link>
+      <link>https://mousikobostani.github.io/post/pvgvnisia/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/pvgvnisia/</guid>
-      <description> Γκρίμποβο Ήρθαν και μου είπαν Ασημένια μ&#39;αλυσίδα  </description>
+      <guid>https://mousikobostani.github.io/post/pvgvnisia/</guid>
+      <description> Γκρίμποβο Ήρθαν και μου είπαν Ασημένια μ&amp;rsquo;αλυσίδα </description>
     </item>
-    
     <item>
       <title>Γρήγορα για την Νερατζιά</title>
-      <link>http://mousikobostani.github.io/post/grhgora-gia-thn-neratzia/</link>
+      <link>https://mousikobostani.github.io/post/grhgora-gia-thn-neratzia/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/grhgora-gia-thn-neratzia/</guid>
-      <description> Όμορφη Μακεδονία Παραμυθιά Νερατζιά  </description>
+      <guid>https://mousikobostani.github.io/post/grhgora-gia-thn-neratzia/</guid>
+      <description> Όμορφη Μακεδονία Παραμυθιά Νερατζιά </description>
     </item>
-    
   </channel>
 </rss>

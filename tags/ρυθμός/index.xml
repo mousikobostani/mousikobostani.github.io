@@ -2,112 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ρυθμός on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/</link>
     <description>Recent content in ρυθμός on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Σχετικά με τους Ρυθμούς</title>
-      <link>http://mousikobostani.github.io/interactive-rhythms/about/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/interactive-rhythms/about/</guid>
-      <description>Εισαγωγή Εδώ και καιρό ήθελα να φτιάξω ένα εργαλείο, με το οποίο να μπορώ να βάζω να παίζει ένας ρυθμός και να παίζω απο πάνω με τη φλογέρα μου. Ύστερα απο πολλές δοκιμές νομίζω οτι έχει δημιουργηθεί κάτι το οποίο μπορώ να μοιραστώ.
-Οδηγίες Χρήσης Η απλότητα ήταν ο κύριος άξονας στη δημιουργία του εργαλείου. Οπότε τα πράγματα είναι απλά (ευελπιστώ). Πηγαίνοντας σε ένα διαδραστικό ρυθμό (interactive rhythm) βλέπεις μια διεπαφή που αποτελείται απο έξι κουμπιά.</description>
-    </item>
-    
-    <item>
-      <title>Καλαματιανό</title>
-      <link>http://mousikobostani.github.io/interactive-rhythms/kalamatiano/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/interactive-rhythms/kalamatiano/</guid>
-      <description>Υπό κατασκευή &amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>Συρτός</title>
-      <link>http://mousikobostani.github.io/interactive-rhythms/syrtos/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/interactive-rhythms/syrtos/</guid>
-      <description>Υπό κατασκευή &amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>Συρτός στα 3</title>
-      <link>http://mousikobostani.github.io/interactive-rhythms/syrtos-sta-tria/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/interactive-rhythms/syrtos-sta-tria/</guid>
-      <description>Υπό κατασκευή &amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>Πωγωνίσιο - Ο Ρυθμός</title>
-      <link>http://mousikobostani.github.io/interactive-rhythms/pogonisio/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/interactive-rhythms/pogonisio/</guid>
-      <description>Βάρυ πωγωνίσιο και τα μυαλά στα κάγκελα. Μεγάλη αγάπη το Πωγωνίσιο. Η έκσταση της Ηπέιρου. Όσο πιο αργό τόσο πιο ταξιδιάρικο. Και όσο για το χορό, τύφλα να έχει το Τάι-Τσί.
- pic.twitter.com/MyEG5TQCHo
-&amp;mdash; Mousiko Bostani (@MousikoB) March 26, 2021   Στη συνέχεια ακουλουθεί μια εφαρμογή μέσω της οποίας μπορείς να αναπαραγάγεις τον ρυθμό Πωγωνίσιο ή την Παραλλαγή του:
-     Για περισσότερες πληροφορίες σχετικά με την εφαρμογή πατήστε εδώ.</description>
-    </item>
-    
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Συγκαθιστός Ηπείρου</title>
-      <link>http://mousikobostani.github.io/post/sygkathistow-hpeirou/</link>
+      <link>https://mousikobostani.github.io/post/sygkathistow-hpeirou/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/sygkathistow-hpeirou/</guid>
-      <description>Συναντάται σαν γύρισμα μετά από ένα τυπικό τετράσημο Ηπείρου (τύπο χορού: πωγωνίσιο) ή έναν χορό στα δύο και η ρυθμική του αγωγή είναι κατά κανόνα γρήγορη.
-Τραγούδια:
- Βάλε κρασί στο μαστραπά Λυγαριά - Πορτοκαλιά Νεραντζιά Παραμυθιά Στου παπά τα παραθύρια Τασιά μωρή Τασιά Τζίτζιρα  </description>
+      <guid>https://mousikobostani.github.io/post/sygkathistow-hpeirou/</guid>
+      <description>Συναντάται σαν γύρισμα μετά από ένα τυπικό τετράσημο Ηπείρου (τύπο χορού: πωγωνίσιο) ή έναν χορό στα δύο και η ρυθμική του αγωγή είναι κατά κανόνα γρήγορη.&#xA;Τραγούδια:&#xA;Βάλε κρασί στο μαστραπά Λυγαριά - Πορτοκαλιά Νεραντζιά Παραμυθιά Στου παπά τα παραθύρια Τασιά μωρή Τασιά Τζίτζιρα </description>
     </item>
-    
     <item>
       <title>Ζωναράδικος (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/zonaradikos/</link>
+      <link>https://mousikobostani.github.io/post/zonaradikos/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/zonaradikos/</guid>
-      <description>  </description>
+      <guid>https://mousikobostani.github.io/post/zonaradikos/</guid>
+      <description> </description>
     </item>
-    
     <item>
       <title>Συγκαθιστός (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/sygkathistos/</link>
+      <link>https://mousikobostani.github.io/post/sygkathistos/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/sygkathistos/</guid>
-      <description>Την ονομασία του οφείλει στο ότι το βήμα του χορευτή ημικάθεται μια στο δεξιό και μια στο αριστερό πόδι. Οι συγκαθιστοί σκοποί είναι πολλοί σε κλίμακες, τρόπους και αρχιτεκτονική μελωδιών. Χορεύονται κατά ζεύγη αντικριστά με μεγάλη ποικιλία χορευτικών σχημάτων και συνοδεύονται από ενθουσιώδη επιφωνήματα.
-Τον καλύτερο προσδιορισμό της λέξης ‘συγκαθιστός’ χορός ,κατά την ταπεινή μας γνώμη, τον δίνουν οι Βλάχοι, οι Γρεβενιώτες, οι Χασιώτες, κλπ περισσότερο την Πίνδο, οι οποίοι προσονομάζουν τον χορό με πληθυντικό αριθμό: «Συγκαθιστά, ή Συγκαστά’, ή και ‘Σκόρπια’.</description>
+      <guid>https://mousikobostani.github.io/post/sygkathistos/</guid>
+      <description>Την ονομασία του οφείλει στο ότι το βήμα του χορευτή ημικάθεται μια στο δεξιό και μια στο αριστερό πόδι. Οι συγκαθιστοί σκοποί είναι πολλοί σε κλίμακες, τρόπους και αρχιτεκτονική μελωδιών. Χορεύονται κατά ζεύγη αντικριστά με μεγάλη ποικιλία χορευτικών σχημάτων και συνοδεύονται από ενθουσιώδη επιφωνήματα.&#xA;Τον καλύτερο προσδιορισμό της λέξης ‘συγκαθιστός’ χορός ,κατά την ταπεινή μας γνώμη, τον δίνουν οι Βλάχοι, οι Γρεβενιώτες, οι Χασιώτες, κλπ περισσότερο την Πίνδο, οι οποίοι προσονομάζουν τον χορό με πληθυντικό αριθμό: «Συγκαθιστά, ή Συγκαστά’, ή και ‘Σκόρπια’.</description>
     </item>
-    
     <item>
       <title>Μπαϊντούσκα Θράκης (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/mpaintouska-rhythm/</link>
+      <link>https://mousikobostani.github.io/post/mpaintouska-rhythm/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mpaintouska-rhythm/</guid>
-      <description>  </description>
+      <guid>https://mousikobostani.github.io/post/mpaintouska-rhythm/</guid>
+      <description> </description>
     </item>
-    
     <item>
       <title>Μαντηλάτος (ο ρυθμός)</title>
-      <link>http://mousikobostani.github.io/post/mantilatos/</link>
+      <link>https://mousikobostani.github.io/post/mantilatos/</link>
       <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mantilatos/</guid>
+      <guid>https://mousikobostani.github.io/post/mantilatos/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

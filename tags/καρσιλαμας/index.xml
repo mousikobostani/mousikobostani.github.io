@@ -2,37 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>καρσιλαμας on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/</link>
     <description>Recent content in καρσιλαμας on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%81%CF%83%CE%B9%CE%BB%CE%B1%CE%BC%CE%B1%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Μπαζαρκάνα</title>
-      <link>http://mousikobostani.github.io/post/mpazarkana/</link>
+      <link>https://mousikobostani.github.io/post/mpazarkana/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mpazarkana/</guid>
-      <description>Αχ να σκάσεις Μπαζαρκάνα, Μπαζαρκάνα,
-εγώ ειμ’ ασίκης σου αμάν αμάν,
-που ‘ρχομαι κάθε βράδυ κάθε βράδυ
-έξω απ’ το σπίτι σου.
-Αχ εσύ είσ’ αρχοντοπού αρχοντοπούλα
-κι εγω μικρό παιδί σου αμάν αμάν,
-πάρε με να σου στρώνω Μπαζαρκάνα
-το κρεβατάκι σου.
-Αχ χέρι να μην απλώ να μην απλώσεις
-στο φουστανάκι μου αμάν αμάν,
-γιατί ειμ’ αρχοντοπού αρχοντοπούλα
-βαρύ το τζάκι μου.
-Ωρέ εσύ εισ’ αρχοντοπού αρχοντοπούλα,
-κι εγω φτωχό παιδί αμάν αμάν,</description>
+      <guid>https://mousikobostani.github.io/post/mpazarkana/</guid>
+      <description>Αχ να σκάσεις Μπαζαρκάνα, Μπαζαρκάνα,&#xA;εγώ ειμ’ ασίκης σου αμάν αμάν,&#xA;που ‘ρχομαι κάθε βράδυ κάθε βράδυ&#xA;έξω απ’ το σπίτι σου.&#xA;Αχ εσύ είσ’ αρχοντοπού αρχοντοπούλα&#xA;κι εγω μικρό παιδί σου αμάν αμάν,&#xA;πάρε με να σου στρώνω Μπαζαρκάνα&#xA;το κρεβατάκι σου.&#xA;Αχ χέρι να μην απλώ να μην απλώσεις&#xA;στο φουστανάκι μου αμάν αμάν,&#xA;γιατί ειμ’ αρχοντοπού αρχοντοπούλα&#xA;βαρύ το τζάκι μου.&#xA;Ωρέ εσύ εισ’ αρχοντοπού αρχοντοπούλα,</description>
     </item>
-    
   </channel>
 </rss>

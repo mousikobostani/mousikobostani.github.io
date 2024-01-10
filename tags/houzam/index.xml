@@ -2,65 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>houzam on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/houzam/</link>
+    <link>https://mousikobostani.github.io/tags/houzam/</link>
     <description>Recent content in houzam on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/houzam/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/houzam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Γελασμένος</title>
-      <link>http://mousikobostani.github.io/post/gelasmenos/</link>
+      <link>https://mousikobostani.github.io/post/gelasmenos/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/gelasmenos/</guid>
-      <description>Πού είναι τα λόγια που \`λεγες
-οι όρκοι και τα χάδια
-και τα ολόγλυκα φιλιά
-που μού \`δινες τα βράδια
-Ξέχασες που μου έλεγες
-τρελλά πώς μ’ αγαπούσες
-κι ότι χωρίς εμένανε
-να ζήσεις δεν μπορούσες
-Μα τώρα μ’ απαρνήθηκες
-για μένα δε σε νοιάζει
-και κάθε μέρα βάσανα
-μες στην καρδιά μου βάζεις
-Μα δεν πειράζει, θα σκεφτείς
-μια μέρα το τι κάνεις
-χωρίς αιτία κι αφορμή
-που θες να με ξεκάνεις</description>
+      <guid>https://mousikobostani.github.io/post/gelasmenos/</guid>
+      <description>Πού είναι τα λόγια που \`λεγες&#xA;οι όρκοι και τα χάδια&#xA;και τα ολόγλυκα φιλιά&#xA;που μού \`δινες τα βράδια&#xA;Ξέχασες που μου έλεγες&#xA;τρελλά πώς μ’ αγαπούσες&#xA;κι ότι χωρίς εμένανε&#xA;να ζήσεις δεν μπορούσες&#xA;Μα τώρα μ’ απαρνήθηκες&#xA;για μένα δε σε νοιάζει&#xA;και κάθε μέρα βάσανα&#xA;μες στην καρδιά μου βάζεις&#xA;Μα δεν πειράζει, θα σκεφτείς&#xA;μια μέρα το τι κάνεις&#xA;χωρίς αιτία κι αφορμή&#xA;που θες να με ξεκάνεις</description>
     </item>
-    
     <item>
       <title>Για την αγάπη σου</title>
-      <link>http://mousikobostani.github.io/post/gia-tin-agapi-sou/</link>
+      <link>https://mousikobostani.github.io/post/gia-tin-agapi-sou/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/gia-tin-agapi-sou/</guid>
-      <description>Στίχοι: Τούντας Πάνος
-Μουσική: Τούντας Πάνος
-Ερμηνευτές: Αμπατζή Ρίτα
-Μου &#39;πες να γίνω μπελαλής
-να γίνω αλανιάρης
-να γίνω μόρτης χασισλής
-και τότε να με πάρεις
-Εγώ για την αγάπη σου
-έγινα παραπάνω
-έγινα κλέφτης και φονιάς
-τα γούστα σου να κάνω
-Στη φυλακή δυο τρεις φορές
-με βάλανε για σένα
-και τέλος με μπαρκάρανε
-στα έρημα τα ξένα
-Και τώρα ξένο κι έρημο
-αχ μ&#39; άφησες μονάχο
-τα βάσανα της ξενητειάς</description>
+      <guid>https://mousikobostani.github.io/post/gia-tin-agapi-sou/</guid>
+      <description>Στίχοι: Τούντας Πάνος&#xA;Μουσική: Τούντας Πάνος&#xA;Ερμηνευτές: Αμπατζή Ρίτα&#xA;Μου &#39;πες να γίνω μπελαλής&#xA;να γίνω αλανιάρης&#xA;να γίνω μόρτης χασισλής&#xA;και τότε να με πάρεις&#xA;Εγώ για την αγάπη σου&#xA;έγινα παραπάνω&#xA;έγινα κλέφτης και φονιάς&#xA;τα γούστα σου να κάνω&#xA;Στη φυλακή δυο τρεις φορές&#xA;με βάλανε για σένα&#xA;και τέλος με μπαρκάρανε&#xA;στα έρημα τα ξένα&#xA;Και τώρα ξένο κι έρημο&#xA;αχ μ&#39; άφησες μονάχο&#xA;τα βάσανα της ξενητειάς</description>
     </item>
-    
   </channel>
 </rss>

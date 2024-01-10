@@ -2,35 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>κάρπαθος on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/</link>
     <description>Recent content in κάρπαθος on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%BA%CE%AC%CF%81%CF%80%CE%B1%CE%B8%CE%BF%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Μηλιά</title>
-      <link>http://mousikobostani.github.io/post/milia/</link>
+      <link>https://mousikobostani.github.io/post/milia/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/milia/</guid>
-      <description>Μηλιά μου μες’ τον εγκρεμό\_ αϊντες καλέ
-Τα μήλα φορτωμένη
-Αχ τα μήλα σου λι μα την Πανάγια
-Τα μήλα σου λιμπίζομαι
-Τα μήλα σου λιμπίζομαι , αϊντες καλέ
-Μα το γκρεμό φοβούμαι
-Αχ κι αν τον φοβάσαι, μα την Παναγιά
-Κι αν τον φοβάσαι τον γκρεμό,
-Κι αν τον φοβάσαι τον γκρεμό , αϊντες καλέ
-Έλα το μονοπάτι
-Αχ το μονοπάτι μα την Παναγιά
-Το μονοπάτι μ’ ήβγαλε</description>
+      <guid>https://mousikobostani.github.io/post/milia/</guid>
+      <description>Μηλιά μου μες’ τον εγκρεμό\_ αϊντες καλέ&#xA;Τα μήλα φορτωμένη&#xA;Αχ τα μήλα σου λι μα την Πανάγια&#xA;Τα μήλα σου λιμπίζομαι&#xA;Τα μήλα σου λιμπίζομαι , αϊντες καλέ&#xA;Μα το γκρεμό φοβούμαι&#xA;Αχ κι αν τον φοβάσαι, μα την Παναγιά&#xA;Κι αν τον φοβάσαι τον γκρεμό,&#xA;Κι αν τον φοβάσαι τον γκρεμό , αϊντες καλέ&#xA;Έλα το μονοπάτι&#xA;Αχ το μονοπάτι μα την Παναγιά&#xA;Το μονοπάτι μ’ ήβγαλε</description>
     </item>
-    
   </channel>
 </rss>

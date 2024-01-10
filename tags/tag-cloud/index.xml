@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag-cloud on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/tag-cloud/</link>
+    <link>https://mousikobostani.github.io/tags/tag-cloud/</link>
     <description>Recent content in tag-cloud on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Wed, 28 Dec 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/tag-cloud/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/tag-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Λέξεις Κλειδιά</title>
-      <link>http://mousikobostani.github.io/post/tagcloud/</link>
+      <link>https://mousikobostani.github.io/post/tagcloud/</link>
       <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/tagcloud/</guid>
+      <guid>https://mousikobostani.github.io/post/tagcloud/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

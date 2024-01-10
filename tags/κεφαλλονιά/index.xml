@@ -2,31 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>κεφαλλονιά on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/</link>
     <description>Recent content in κεφαλλονιά on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CE%B9%CE%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Μέρμηγκας</title>
-      <link>http://mousikobostani.github.io/post/mermigkas/</link>
+      <link>https://mousikobostani.github.io/post/mermigkas/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/mermigkas/</guid>
-      <description>&amp;#xa0;Που πάς καλε βρε μερμυγκα, καλε μέρμυγκα
-&amp;#xa0;Βρε που πας, βρε που πας κατακαημένε με τ αλε- με τ&#39;αλέτρι φορτομένε
-&amp;#xa0;μα γω χω αμπέλια στη πλαγιά στη κουκουναριά
-&amp;#xa0;εχω αμπέλια να τρυγίσω και να τα μουστοπατήσω
-&amp;#xa0;τα τρυγησα, τα πάτησα καλέ τα πάτησα
-&amp;#xa0;βρε και γεμι και γεμίζω τρεια βαρέλες σαν τις όμορφες κοπέλες
-&amp;#xa0;νερο για σενα η μάνα μου καλε η μανούλα μου
-&amp;#xa0;σα αρχοντόπουλα τα χε΄ρια σε σπαθιά και σε μαχαίρια</description>
+      <guid>https://mousikobostani.github.io/post/mermigkas/</guid>
+      <description>&amp;#xa0;Που πάς καλε βρε μερμυγκα, καλε μέρμυγκα&#xA;&amp;#xa0;Βρε που πας, βρε που πας κατακαημένε με τ αλε- με τ&#39;αλέτρι φορτομένε&#xA;&amp;#xa0;μα γω χω αμπέλια στη πλαγιά στη κουκουναριά&#xA;&amp;#xa0;εχω αμπέλια να τρυγίσω και να τα μουστοπατήσω&#xA;&amp;#xa0;τα τρυγησα, τα πάτησα καλέ τα πάτησα&#xA;&amp;#xa0;βρε και γεμι και γεμίζω τρεια βαρέλες σαν τις όμορφες κοπέλες&#xA;&amp;#xa0;νερο για σενα η μάνα μου καλε η μανούλα μου&#xA;&amp;#xa0;σα αρχοντόπουλα τα χε΄ρια σε σπαθιά και σε μαχαίρια</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,38 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>αργός-συρτός on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/</link>
     <description>Recent content in αργός-συρτός on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%B1%CF%81%CE%B3%CF%8C%CF%82-%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Στο &#39;πα και στο ξαναλέω</title>
-      <link>http://mousikobostani.github.io/post/sto-pa-kai-sto-xanaleo/</link>
+      <link>https://mousikobostani.github.io/post/sto-pa-kai-sto-xanaleo/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/sto-pa-kai-sto-xanaleo/</guid>
-      <description>Στο ‘πα και στο ξαναλέω
-στο γιαλό μην κατεβείς
-κι ο γιαλός κάνει φουρτούνα
-και σε πάρει και διαβείς
-Κι αν με πάρει που με πάει
-κάτω στα βαθιά νερά
-κάνω το κορμί μου βάρκα
-τα χεράκια μου κουπιά
-το μαντήλι μου πανάκι
-μπαινοβγαίνω στη στεριά
-Στο ‘πα και στο ξαναλέω
-μη μου γράφεις γράμματα
-γιατί γράμματα δεν ξέρω
-και με πιάνουν κλάματα
-    score @ http://oudpartitures.blogspot.gr/</description>
+      <guid>https://mousikobostani.github.io/post/sto-pa-kai-sto-xanaleo/</guid>
+      <description>Στο ‘πα και στο ξαναλέω&#xA;στο γιαλό μην κατεβείς&#xA;κι ο γιαλός κάνει φουρτούνα&#xA;και σε πάρει και διαβείς&#xA;Κι αν με πάρει που με πάει&#xA;κάτω στα βαθιά νερά&#xA;κάνω το κορμί μου βάρκα&#xA;τα χεράκια μου κουπιά&#xA;το μαντήλι μου πανάκι&#xA;μπαινοβγαίνω στη στεριά&#xA;Στο ‘πα και στο ξαναλέω&#xA;μη μου γράφεις γράμματα&#xA;γιατί γράμματα δεν ξέρω&#xA;και με πιάνουν κλάματα&#xA;score @ http://oudpartitures.blogspot.gr/</description>
     </item>
-    
   </channel>
 </rss>

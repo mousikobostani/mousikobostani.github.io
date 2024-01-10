@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>καππαδοκία on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/</link>
+    <link>https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/</link>
     <description>Recent content in καππαδοκία on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CF%80%CF%80%CE%B1%CE%B4%CE%BF%CE%BA%CE%AF%CE%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Λειλαλούμ</title>
-      <link>http://mousikobostani.github.io/post/leilaloum/</link>
+      <link>https://mousikobostani.github.io/post/leilaloum/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/leilaloum/</guid>
-      <description>   </description>
+      <guid>https://mousikobostani.github.io/post/leilaloum/</guid>
+      <description> </description>
     </item>
-    
   </channel>
 </rss>

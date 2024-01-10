@@ -2,32 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>προποντίδα on Μουσικό Μποστάνι</title>
-    <link>http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/</link>
+    <link>https://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/</link>
     <description>Recent content in προποντίδα on Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <language>en</language>
     <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mousikobostani.github.io/tags/%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CF%84%CE%AF%CE%B4%CE%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Κοράσιον ετραγούδαγε</title>
-      <link>http://mousikobostani.github.io/post/korasion/</link>
+      <link>https://mousikobostani.github.io/post/korasion/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>http://mousikobostani.github.io/post/korasion/</guid>
-      <description>Kοράσιον ετραγούδαγε σ&#39; ένα ψηλό παλάτι
-κι επήρ&#39; αγέρας τη φωνή στα πέλαγα την πάει.
-Kι όσα καράβια τ&#39; άκουσαν όλα πανιά εμαϊνάραν.
-[Kι ένα καράβι της φιλιάς, καημένο της αγάπης
-ούτε μαϊνάρει τα πανιά ούτε τα παίρνει κάτου
-τα μπάσο μούδο τα&#39;ριξε και στη φωνή πηγαίνει.]
-- Kόρη μ&#39; άλλαξε το σκοπό [και πες άλλο τραγούδι.]
-- Kαι πως ν&#39; αλλάξω το σκοπό, να πω άλλο τραγούδι,
-εγώ κι αν ετραγούδησα για μοιρολόι το &#39;πα:</description>
+      <guid>https://mousikobostani.github.io/post/korasion/</guid>
+      <description>Kοράσιον ετραγούδαγε σ&#39; ένα ψηλό παλάτι&#xA;κι επήρ&#39; αγέρας τη φωνή στα πέλαγα την πάει.&#xA;Kι όσα καράβια τ&#39; άκουσαν όλα πανιά εμαϊνάραν.&#xA;[Kι ένα καράβι της φιλιάς, καημένο της αγάπης&#xA;ούτε μαϊνάρει τα πανιά ούτε τα παίρνει κάτου&#xA;τα μπάσο μούδο τα&#39;ριξε και στη φωνή πηγαίνει.]&#xA;- Kόρη μ&#39; άλλαξε το σκοπό [και πες άλλο τραγούδι.]&#xA;- Kαι πως ν&#39; αλλάξω το σκοπό, να πω άλλο τραγούδι,&#xA;εγώ κι αν ετραγούδησα για μοιρολόι το &#39;πα:</description>
     </item>
-    
   </channel>
 </rss>
