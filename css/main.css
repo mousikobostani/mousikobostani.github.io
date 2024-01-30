@@ -522,7 +522,7 @@ footer div.disclaimer {
 }
 
 .blog-tags:before {
-  content: "Tags: ";
+  content: "Tags:";
 }
 
 .blog-tags a {
@@ -729,8 +729,7 @@ footer div.disclaimer {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  /* aris comment color: #404040; */
-  color: white;
+  color: #404040;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
