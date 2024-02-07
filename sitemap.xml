@@ -2,26 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mousikobostani.github.io/categories/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/tags/generative-art/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/tags/p5.js/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/categories/p5.js/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/post/sound-score/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mousikobostani.github.io/post/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/tags/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/drepanaki/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
@@ -170,7 +155,19 @@
     <loc>https://mousikobostani.github.io/post/to-xontro-mpizeli/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mousikobostani.github.io/categories/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/tags/generative-art/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mousikobostani.github.io/post/live-visual-at-xoriopalio/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/tags/p5.js/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/categories/p5.js/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/01.p5-sketch/sound-score/</loc>
@@ -2029,5 +2026,11 @@
   </url><url>
     <loc>https://mousikobostani.github.io/post/temp/</loc>
     <lastmod>2000-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/post/music-xml2/</loc>
+    <lastmod>1024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/post/sound-score/</loc>
+    <lastmod>1024-02-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

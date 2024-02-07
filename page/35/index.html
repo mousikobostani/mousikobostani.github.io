@@ -55,6 +55,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -203,28 +240,6 @@
           
             <article class="post-preview">
 
-  <a href="https://mousikobostani.github.io/post/mantilatos/">
-        <h2 class="post-title">Μαντηλάτος (ο ρυθμός)</h2>
-        
-        
-        
-    </a>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CF%8C%CF%82/">ρυθμός</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BD%CF%84%CE%B7%CE%BB%CE%AC%CF%84%CE%BF%CF%82/">μαντηλάτος</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
-          
-            <article class="post-preview">
-
   <a href="https://mousikobostani.github.io/post/ussul/">
         <h2 class="post-title">Τα ουσούλ</h2>
         
@@ -256,6 +271,48 @@
     <div class="blog-tags">
         
         <a href="https://mousikobostani.github.io/tags/aka/">aka</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/music-xml2/">
+        <h2 class="post-title">music-xml</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags//"></a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/sound-score/">
+        <h2 class="post-title">p5.js sound score</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags/p5.js/">p5.js</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/generative-art/">generative art</a>&nbsp;
         
     </div>
     

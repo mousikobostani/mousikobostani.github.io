@@ -51,6 +51,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -193,20 +230,6 @@
 
             
             <li>
-              <a href="https://mousikobostani.github.io/post/sound-score/">p5.js sound score</a>
-              
-              <div class="blog-tags">
-                
-                <a href="https://mousikobostani.github.io/tags/p5.js/">p5.js</a>;
-                
-                <a href="https://mousikobostani.github.io/tags/generative-art/">generative art</a>;
-                
-              </div>
-              
-
-            </li>
-            
-            <li>
               <a href="https://mousikobostani.github.io/post/live-visual-at-xoriopalio/">Live Visuals @ Χωριό Παλιό</a>
               
               <div class="blog-tags">
@@ -236,6 +259,20 @@
             
             <li>
               <a href="https://mousikobostani.github.io/post/sound-score-part/">p5.js sound score part</a>
+              
+              <div class="blog-tags">
+                
+                <a href="https://mousikobostani.github.io/tags/p5.js/">p5.js</a>;
+                
+                <a href="https://mousikobostani.github.io/tags/generative-art/">generative art</a>;
+                
+              </div>
+              
+
+            </li>
+            
+            <li>
+              <a href="https://mousikobostani.github.io/post/sound-score/">p5.js sound score</a>
               
               <div class="blog-tags">
                 

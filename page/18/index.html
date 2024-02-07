@@ -55,6 +55,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -200,30 +237,6 @@
 
         <div class="posts-list">
           
-          
-            <article class="post-preview">
-
-  <a href="https://mousikobostani.github.io/post/oso-vatheia-einai-i-thalassa/">
-        <h2 class="post-title">Όσο βαθειά είναι η θάλασσα</h2>
-        
-        
-        
-    </a>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/">νησιώτικα</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/">συρτός</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CF%83%CE%BC%CF%85%CF%81%CE%BD%CE%B1%CE%90%CE%BA%CE%B1/">σμυρναΐκα</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
           
             <article class="post-preview">
 
@@ -532,6 +545,30 @@
         <a href="https://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%82/">απόκριες</a>&nbsp;
         
         <a href="https://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/">συρτός</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/foties-mytilinis/">
+        <h2 class="post-title">Φωτιές Μυτιλήνης</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1/">νησιώτικα</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/%CF%83%CF%85%CF%81%CF%84%CF%8C%CF%82/">συρτός</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%BB%CE%AD%CF%83%CE%B2%CE%BF%CF%82/">λέσβος</a>&nbsp;
         
     </div>
     

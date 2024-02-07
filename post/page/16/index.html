@@ -51,6 +51,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -173,7 +210,7 @@
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on February 1, 2024
+  <i class="fas fa-calendar"></i>&nbsp;Posted on January 11, 2024
   
   
   
@@ -195,28 +232,6 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
         <div class="posts-list">
-          
-            <article class="post-preview">
-
-  <a href="https://mousikobostani.github.io/post/aigiotissa/">
-        <h2 class="post-title">Αιγιώτισσα</h2>
-        
-        
-        
-    </a>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1/">θεσσαλία</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/">καλαματιανό</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
           
             <article class="post-preview">
 
@@ -517,6 +532,32 @@
         <a href="https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/">καλαματιανό</a>&nbsp;
         
         <a href="https://mousikobostani.github.io/tags/ussak/">ussak</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/haralampis/">
+        <h2 class="post-title">Χαραλάμπης</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%AF%CE%B1/">θεσσαλία</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%B1%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%82/">απόκριες</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CE%B1%CF%84%CE%B9%CE%B1%CE%BD%CF%8C/">καλαματιανό</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/rast/">rast</a>&nbsp;
         
     </div>
     

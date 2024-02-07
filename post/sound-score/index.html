@@ -63,8 +63,8 @@
   "description" : " ",
   "inLanguage" : "en",
   "wordCount":  0 ,
-  "datePublished" : "2024-02-01T00:00:00",
-  "dateModified" : "2024-02-01T00:00:00",
+  "datePublished" : "1024-02-01T00:00:00",
+  "dateModified" : "1024-02-01T00:00:00",
   "image" : "https:\/\/mousikobostani.github.io",
   "keywords" : [ "p5.js, generative art" ],
   "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/sound-score\/",
@@ -101,6 +101,43 @@
 
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
   </head>
   <body>
@@ -224,7 +261,7 @@
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on February 1, 2024
+  <i class="fas fa-calendar"></i>&nbsp;Posted on February 1, 1024
   
   
   
@@ -333,10 +370,10 @@
       
         <ul class="pager blog-pager">
           
-            <li class="previous">
-              <a href="https://mousikobostani.github.io/post/drepanaki/" data-toggle="tooltip" data-placement="top" title="Δρεπανάκι">&larr; Previous Post</a>
-            </li>
           
+            <li class="next">
+              <a href="https://mousikobostani.github.io/post/music-xml2/" data-toggle="tooltip" data-placement="top" title="music-xml">Next Post &rarr;</a>
+            </li>
           
         </ul>
       

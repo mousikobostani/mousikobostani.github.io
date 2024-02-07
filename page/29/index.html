@@ -55,6 +55,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -200,26 +237,6 @@
 
         <div class="posts-list">
           
-          
-            <article class="post-preview">
-
-  <a href="https://mousikobostani.github.io/post/atikos-trampanistos/">
-        <h2 class="post-title">Άτικος τραμπανιστός</h2>
-        
-        
-        
-    </a>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1/">μακεδονία</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
           
             <article class="post-preview">
 
@@ -518,6 +535,26 @@
         <a href="https://mousikobostani.github.io/tags/%CE%B8%CF%81%CE%AC%CE%BA%CE%B7/">θράκη</a>&nbsp;
         
         <a href="https://mousikobostani.github.io/tags/%CF%84%CF%81%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%B9%CF%83%CF%84%CF%8C%CF%82/">τραμπανιστός</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/kyra-arxontopoula/">
+        <h2 class="post-title">Κυρά μ κι Αρχοντοπούλα μ</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags/%CE%BC%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1/">μακεδονία</a>&nbsp;
         
     </div>
     

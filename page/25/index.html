@@ -55,6 +55,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -200,30 +237,6 @@
 
         <div class="posts-list">
           
-          
-            <article class="post-preview">
-
-  <a href="https://mousikobostani.github.io/post/karapataki/">
-        <h2 class="post-title">Καραπατακι</h2>
-        
-        
-        
-    </a>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%AE%CF%80%CE%B5%CE%B9%CF%81%CE%BF%CF%82/">ήπειρος</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%B6%CE%B1%CE%B3%CE%BF%CF%81%CE%AF%CF%83%CE%B9%CE%BF/">ζαγορίσιο</a>&nbsp;
-        
-        <a href="https://mousikobostani.github.io/tags/%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%84%CE%B9/">μπεράτι</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-
           
             <article class="post-preview">
 
@@ -526,6 +539,28 @@
         <a href="https://mousikobostani.github.io/tags/saz-semai/">saz-semai</a>&nbsp;
         
         <a href="https://mousikobostani.github.io/tags/hicaz/">hicaz</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+
+          
+            <article class="post-preview">
+
+  <a href="https://mousikobostani.github.io/post/sultani-ss-nedim-aga/">
+        <h2 class="post-title">Sultani-Yegah Saz Semai - Nedim Aga</h2>
+        
+        
+        
+    </a>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://mousikobostani.github.io/tags/sultani-yegah/">sultani-yegah</a>&nbsp;
+        
+        <a href="https://mousikobostani.github.io/tags/saz-semai/">saz-semai</a>&nbsp;
         
     </div>
     

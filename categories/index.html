@@ -52,6 +52,43 @@
     <script data-goatcounter="https://mousikobostani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+    <script id="osmd-script" async src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.5.7/build/opensheetmusicdisplay.min.js"></script>
+<script>
+  (function () {
+    
+    document.addEventListener('DOMContentLoaded', loadOsmd)
+    document.getElementById('osmd-script').addEventListener('load', loadOsmd)
+
+    var wait = true
+
+    function loadOsmd() {
+      
+      if (wait) {
+        wait = false
+        return
+      }
+
+      
+      document.querySelectorAll('.osmd-container').forEach(function (container) {
+        
+        var osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay(container, {
+          
+          drawingParameters: 'compacttight'
+        })
+
+        
+        osmd.load(container.dataset.musicXmlSrc)
+          .then(function () {
+            
+            osmd.render()
+          })
+      })
+    }
+  })();
+</script>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="igoumeninja" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
@@ -206,13 +243,13 @@
                 View all</a>
                 <div class="list-group">
                   
-                    <a href="https://mousikobostani.github.io/post/sound-score/" class="list-group-item">p5.js sound score</a>
-                  
                     <a href="https://mousikobostani.github.io/post/live-visual-at-xoriopalio/" class="list-group-item">Live Visuals @ Χωριό Παλιό</a>
                   
                     <a href="https://mousikobostani.github.io/post/01.p5-sketch/sound-score/" class="list-group-item">p5.js sound score</a>
                   
                     <a href="https://mousikobostani.github.io/post/sound-score-part/" class="list-group-item">p5.js sound score part</a>
+                  
+                    <a href="https://mousikobostani.github.io/post/sound-score/" class="list-group-item">p5.js sound score</a>
                   
                 </div>
               </div>

@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Το Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mousikobostani.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>p5.js sound score</title>
-      <link>https://mousikobostani.github.io/post/sound-score/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/sound-score/</guid>
-      <description> </description>
-    </item>
     <item>
       <title>Δρεπανάκι</title>
       <link>https://mousikobostani.github.io/post/drepanaki/</link>
@@ -3647,6 +3640,20 @@
       <pubDate>Sat, 12 Feb 2000 00:00:00 +0000</pubDate>
       <guid>https://mousikobostani.github.io/post/temp/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>music-xml</title>
+      <link>https://mousikobostani.github.io/post/music-xml2/</link>
+      <pubDate>Fri, 06 Feb 1024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/music-xml2/</guid>
+      <description>Table of Contents dsfkjh</description>
+    </item>
+    <item>
+      <title>p5.js sound score</title>
+      <link>https://mousikobostani.github.io/post/sound-score/</link>
+      <pubDate>Sun, 01 Feb 1024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/sound-score/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>
