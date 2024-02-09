@@ -10,9 +10,9 @@
  
 
 
-      <title>p5.js sound score - </title>
+      <title>Live Visuals @ Χωριό Παλιό - </title>
 
-  <meta name="description" content=" "><script type="application/ld+json">
+  <meta name="description" content="^"><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -47,8 +47,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/mousikobostani.github.io\/post\/sound-score\/",
-          "name": "P5.js sound score"
+          "@id": "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/live-visual-at-xoriopalio\/",
+          "name": "Live visuals @ χωριό παλιό"
         }
     }]
 }
@@ -59,15 +59,15 @@
   "author": {
     "name" : "Aris Bezas from Guillermo Estrada"
   },
-  "headline": "p5.js sound score",
-  "description" : " ",
+  "headline": "Live Visuals @ Χωριό Παλιό",
+  "description" : "^",
   "inLanguage" : "en",
-  "wordCount":  0 ,
-  "datePublished" : "1024-02-01T00:00:00",
-  "dateModified" : "1024-02-01T00:00:00",
+  "wordCount":  1 ,
+  "datePublished" : "2021-02-18T00:00:00",
+  "dateModified" : "2021-02-18T00:00:00",
   "image" : "https:\/\/mousikobostani.github.io",
   "keywords" : [ "p5.js, generative art" ],
-  "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/sound-score\/",
+  "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/live-visual-at-xoriopalio\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/mousikobostani.github.io",
@@ -81,14 +81,14 @@
 }
 </script>
 
-<meta property="og:title" content="p5.js sound score" />
-<meta property="og:description" content=" ">
-<meta property="og:url" content="https://mousikobostani.github.io/post/sound-score/" />
+<meta property="og:title" content="Live Visuals @ Χωριό Παλιό" />
+<meta property="og:description" content="^">
+<meta property="og:url" content="https://mousikobostani.github.io/post/01.p5-sketch/live-visual-at-xoriopalio/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Το Μουσικό Μποστάνι" />
 
-  <meta name="twitter:title" content="p5.js sound score" />
-  <meta name="twitter:description" content=" ">
+  <meta name="twitter:title" content="Live Visuals @ Χωριό Παλιό" />
+  <meta name="twitter:description" content="^">
   <meta name="twitter:card" content="summary_large_image" />
   <link href='https://mousikobostani.github.io/favicon/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta name="generator" content="Hugo 0.121.1">
@@ -253,7 +253,7 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>p5.js sound score</h1>
+                <h1>Live Visuals @ Χωριό Παλιό</h1>
               
               
               
@@ -261,7 +261,7 @@
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on February 1, 1024
+  <i class="fas fa-calendar"></i>&nbsp;Posted on February 18, 2021
   
   
   
@@ -282,12 +282,12 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        
+        <p>
 
 
 <div class="sketch">
     <div class="sketch-container">
-        <iframe id="p5-sound-js" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
+        <iframe id="p5-simple-life" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
   &lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
@@ -311,36 +311,20 @@
         &lt;script&gt;
             
     
-    let mySound, myPhrase, myPart;
-    let pattern = [1,0,1,0,1,0,2,2,2];
-    
-    function preload() {
-        soundFormats(&#39;mp3&#39;, &#39;ogg&#39;);
-        mySound = loadSound(&#39;ntefi&#39;);
-    }
-    
     function setup() {
-        let cnv = createCanvas(100, 100);
-        cnv.mousePressed(playMyPart);
-        background(220);
-        text(&#39;tap to play&#39;, width/2, height/2);
-        textAlign(CENTER, CENTER);
-    
-        myPhrase = new p5.Phrase(&#39;bbox&#39;, onEachStep, pattern);
-        myPart = new p5.Part();
-        myPart.addPhrase(myPhrase);
-        myPart.setBPM(90);
-        //myPart.loop();
+        createCanvas(500, 500);
+        frameRate(30);
     }
     
-    function onEachStep(time, playbackRate) {
-        mySound.rate(playbackRate);
-        mySound.play(time);
+    function draw() {
+        fill(255,30);
+        //rect(0,0,width,height);
+        fill(0,50);
+        ellipse(random(0,480), random(0,200),5,5);
     }
     
-    function playMyPart() {
-        userStartAudio();
-        myPart.start();
+    function mousePressed() {
+        
     }
 
   
@@ -352,6 +336,7 @@
     </div>
 </div>
 
+^</p>
 
         
           <div class="blog-tags">
@@ -370,9 +355,13 @@
       
         <ul class="pager blog-pager">
           
+            <li class="previous">
+              <a href="https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/" data-toggle="tooltip" data-placement="top" title="p5.js sound score part">&larr; Previous Post</a>
+            </li>
+          
           
             <li class="next">
-              <a href="https://mousikobostani.github.io/post/music-xml2/" data-toggle="tooltip" data-placement="top" title="music-xml">Next Post &rarr;</a>
+              <a href="https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/" data-toggle="tooltip" data-placement="top" title="">Next Post &rarr;</a>
             </li>
           
         </ul>

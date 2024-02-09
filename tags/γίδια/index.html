@@ -10,9 +10,8 @@
  
 
 
-      <title>p5.js sound score - </title>
-
-  <meta name="description" content=" "><script type="application/ld+json">
+      <title>γίδια - </title>
+<script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -32,63 +31,13 @@
   
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https:\/\/mousikobostani.github.io",
-          "name": "home"
-        }
-    },{
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/sound-score\/",
-          "name": "P5.js sound score"
-        }
-    }]
-}
-</script><script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Article",
-  "author": {
-    "name" : "Aris Bezas from Guillermo Estrada"
-  },
-  "headline": "p5.js sound score",
-  "description" : " ",
-  "inLanguage" : "en",
-  "wordCount":  0 ,
-  "datePublished" : "2021-02-18T00:00:00",
-  "dateModified" : "2021-02-18T00:00:00",
-  "image" : "https:\/\/mousikobostani.github.io",
-  "keywords" : [ "p5.js, generative art" ],
-  "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/sound-score\/",
-  "publisher" : {
-    "@type": "Organization",
-    "name" : "https:\/\/mousikobostani.github.io",
-    "logo" : {
-        "@type" : "ImageObject",
-        "url" : "https:\/\/mousikobostani.github.io",
-        "height" :  60 ,
-        "width" :  60
-    }
-  }
-}
-</script>
 
-<meta property="og:title" content="p5.js sound score" />
-<meta property="og:description" content=" ">
-<meta property="og:url" content="https://mousikobostani.github.io/post/01.p5-sketch/sound-score/" />
+<meta property="og:title" content="γίδια" />
+<meta property="og:url" content="https://mousikobostani.github.io/tags/%CE%B3%CE%AF%CE%B4%CE%B9%CE%B1/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Το Μουσικό Μποστάνι" />
 
-  <meta name="twitter:title" content="p5.js sound score" />
-  <meta name="twitter:description" content=" ">
+  <meta name="twitter:title" content="γίδια" />
   <meta name="twitter:card" content="summary_large_image" />
   <link href='https://mousikobostani.github.io/favicon/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta name="generator" content="Hugo 0.121.1">
@@ -251,22 +200,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="post-heading">
+            <div class="tags-heading">
               
-                <h1>p5.js sound score</h1>
-              
-              
+                <h1>γίδια</h1>
               
               
-                <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posted on February 18, 2021
-  
-  
-  
-</span>
-
+                <hr class="small">
+              
+              
               
             </div>
           </div>
@@ -278,115 +219,32 @@
 
 
     
-<div class="container" role="main">
+<div role="main" class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
-        
+      
 
+      <div class="site-wrap">
+        <div class="post p2 p-responsive wrap" role="main">
+          <div class="measure">
 
-<div class="sketch">
-    <div class="sketch-container">
-        <iframe id="p5-sound-js" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
-  &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-    &lt;head&gt;
-        &lt;style&gt;
-            html, body {
-                width: 100%;
-                padding: 0;
-                margin: 0;
-            }
-            main, .p5Canvas {
-                width: 100% !important;
-                height: 100% !important;
-                display: block;
-                image-rendering: pixelated;
-            }
-        &lt;/style&gt;
-        &lt;script src=&#34;https://cdn.jsdelivr.net/npm/p5@latest/lib/p5.min.js&#34;&gt;&lt;/script&gt;
-        &lt;script src=&#34;https://cdn.jsdelivr.net/npm/p5@1.2.0/lib/addons/p5.sound.js&#34;&gt;&lt;/script&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;script&gt;
             
-    
-    let mySound, myPhrase, myPart;
-    let pattern = [1,0,0,1,0,1,0,0,1,0,0,2,0,2,0];
-    
-    function preload() {
-        soundFormats(&#39;mp3&#39;, &#39;ogg&#39;);
-        mySound = loadSound(&#39;ntefi&#39;);
-    }
-    
-    function setup() {
-        let cnv = createCanvas(100, 100);
-        cnv.mousePressed(playMyPart);
-        background(220);
-        text(&#39;tap to play&#39;, width/2, height/2);
-        textAlign(CENTER, CENTER);
-    
-        myPhrase = new p5.Phrase(&#39;bbox&#39;, onEachStep, pattern);
-        myPart = new p5.Part();
-        myPart.addPhrase(myPhrase);
-        myPart.setBPM(60);
-    }
-    
-    function onEachStep(time, playbackRate) {
-        mySound.rate(playbackRate);
-        mySound.play(time);
-    }
-    
-    function playMyPart() {
-        userStartAudio();
-        myPart.start();
-    }
+            <li>
+              <a href="https://mousikobostani.github.io/post/ena-hmerologio-gia-ta-gidia/">Ενα ημερολόγιο για τα γίδια</a>
+              
+              <div class="blog-tags">
+                
+                <a href="https://mousikobostani.github.io/tags/%CE%B3%CE%AF%CE%B4%CE%B9%CE%B1/">γίδια</a>;
+                
+              </div>
+              
 
-  
-        &lt;/script&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-
-" onload="resize(this)" scrolling="no" frameborder="0"></iframe>
-    </div>
-</div>
-
-
-        
-          <div class="blog-tags">
+            </li>
             
-              <a href="https://mousikobostani.github.io/tags/p5.js/">p5.js</a>&nbsp;
-            
-              <a href="https://mousikobostani.github.io/tags/generative-art/">generative art</a>&nbsp;
-            
+
           </div>
-        
-
-        
-
-      </article>
-
-      
-        <ul class="pager blog-pager">
-          
-            <li class="previous">
-              <a href="https://mousikobostani.github.io/post/sound-score-part/" data-toggle="tooltip" data-placement="top" title="p5.js sound score part">&larr; Previous Post</a>
-            </li>
-          
-          
-            <li class="next">
-              <a href="https://mousikobostani.github.io/post/live-visual-at-xoriopalio/" data-toggle="tooltip" data-placement="top" title="Live Visuals @ Χωριό Παλιό">Next Post &rarr;</a>
-            </li>
-          
-        </ul>
-      
-
-
-      
-        
-        
-      
-
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -401,7 +259,7 @@
           
           
           <li>
-            <a href="" title="RSS">
+            <a href="/tags/%CE%B3%CE%AF%CE%B4%CE%B9%CE%B1/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

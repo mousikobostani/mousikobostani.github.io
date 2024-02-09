@@ -9,31 +9,31 @@
     <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mousikobostani.github.io/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Live Visuals @ Χωριό Παλιό</title>
-      <link>https://mousikobostani.github.io/post/live-visual-at-xoriopalio/</link>
+      <title></title>
+      <link>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/live-visual-at-xoriopalio/</guid>
+      <guid>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</guid>
+      <description>Javascript power</description>
+    </item>
+    <item>
+      <title>Live Visuals @ Χωριό Παλιό</title>
+      <link>https://mousikobostani.github.io/post/01.p5-sketch/live-visual-at-xoriopalio/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/01.p5-sketch/live-visual-at-xoriopalio/</guid>
       <description>^</description>
     </item>
     <item>
-      <title>p5.js sound score</title>
-      <link>https://mousikobostani.github.io/post/01.p5-sketch/sound-score/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/01.p5-sketch/sound-score/</guid>
-      <description> </description>
-    </item>
-    <item>
       <title>p5.js sound score part</title>
-      <link>https://mousikobostani.github.io/post/sound-score-part/</link>
+      <link>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/sound-score-part/</guid>
-      <description> </description>
+      <guid>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</guid>
+      <description>Javascript power</description>
     </item>
     <item>
       <title>p5.js sound score</title>
-      <link>https://mousikobostani.github.io/post/sound-score/</link>
+      <link>https://mousikobostani.github.io/post/01.p5-sketch/a-sound-score/</link>
       <pubDate>Sun, 01 Feb 1024 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/sound-score/</guid>
+      <guid>https://mousikobostani.github.io/post/01.p5-sketch/a-sound-score/</guid>
       <description> </description>
     </item>
   </channel>

@@ -10,9 +10,9 @@
  
 
 
-      <title>Live Visuals @ Χωριό Παλιό - </title>
+      <title>p5.js sound score part - </title>
 
-  <meta name="description" content="^"><script type="application/ld+json">
+  <meta name="description" content="Javascript power"><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -47,8 +47,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/mousikobostani.github.io\/post\/live-visual-at-xoriopalio\/",
-          "name": "Live visuals @ χωριό παλιό"
+          "@id": "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/sound-score-part\/",
+          "name": "P5.js sound score part"
         }
     }]
 }
@@ -59,15 +59,15 @@
   "author": {
     "name" : "Aris Bezas from Guillermo Estrada"
   },
-  "headline": "Live Visuals @ Χωριό Παλιό",
-  "description" : "^",
+  "headline": "p5.js sound score part",
+  "description" : "Javascript power",
   "inLanguage" : "en",
-  "wordCount":  1 ,
+  "wordCount":  2 ,
   "datePublished" : "2021-02-18T00:00:00",
   "dateModified" : "2021-02-18T00:00:00",
   "image" : "https:\/\/mousikobostani.github.io",
   "keywords" : [ "p5.js, generative art" ],
-  "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/live-visual-at-xoriopalio\/",
+  "mainEntityOfPage" : "https:\/\/mousikobostani.github.io\/post\/01.p5-sketch\/sound-score-part\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/mousikobostani.github.io",
@@ -81,14 +81,14 @@
 }
 </script>
 
-<meta property="og:title" content="Live Visuals @ Χωριό Παλιό" />
-<meta property="og:description" content="^">
-<meta property="og:url" content="https://mousikobostani.github.io/post/live-visual-at-xoriopalio/" />
+<meta property="og:title" content="p5.js sound score part" />
+<meta property="og:description" content="Javascript power">
+<meta property="og:url" content="https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Το Μουσικό Μποστάνι" />
 
-  <meta name="twitter:title" content="Live Visuals @ Χωριό Παλιό" />
-  <meta name="twitter:description" content="^">
+  <meta name="twitter:title" content="p5.js sound score part" />
+  <meta name="twitter:description" content="Javascript power">
   <meta name="twitter:card" content="summary_large_image" />
   <link href='https://mousikobostani.github.io/favicon/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta name="generator" content="Hugo 0.121.1">
@@ -253,7 +253,7 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Live Visuals @ Χωριό Παλιό</h1>
+                <h1>p5.js sound score part</h1>
               
               
               
@@ -282,12 +282,13 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>
+        <p>Javascript power</p>
+
 
 
 <div class="sketch">
     <div class="sketch-container">
-        <iframe id="p5-simple-life" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
+        <iframe id="p5-sound-js" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="
   &lt;!DOCTYPE html&gt;
 &lt;html&gt;
     &lt;head&gt;
@@ -310,22 +311,64 @@
     &lt;body&gt;
         &lt;script&gt;
             
+    let dum, tek, myPart;
+    let dumPat = [1,0,0,0,1,0,0,0];
+    let tekPat = [0,0,1,1,0,0,1,0];
+    
+    let button1, button2, button3, button4, button5, button6;
+    let slider, bpm = 40;
+    
+    function preload() {
+       
+        soundFormats(&#39;mp3&#39;, &#39;ogg&#39;);
+        dum = loadSound(&#39;frameDrum&#39;);
+        tek = loadSound(&#39;gongaE&#39;);
+    }
     
     function setup() {
-        createCanvas(500, 500);
-        frameRate(30);
+        createCanvas(1200,800);
+        
+        textSize(36);
+        fill(0);
+        //text(&#34;bpm&#34;, 0, 0);
+        
+        let dumPhrase = new p5.Phrase(&#39;dum&#39;, playDum, dumPat);
+        let tekPhrase = new p5.Phrase(&#39;tek&#39;, playTek, tekPat);
+        myPart = new p5.Part();
+        myPart.addPhrase(dumPhrase);
+        myPart.addPhrase(tekPhrase);
+        myPart.setBPM(40);
+    
+        button1 = createButton(&#39;play!&#39;); button1.position(0, 20); button1.mousePressed(playKey);
+        button2 = createButton(&#39;stop!&#39;); button2.position(120, 20); button2.mousePressed(noLoopKey);
+        button3 = createButton(&#39;bpm &#43; 10&#39;); button3.position(120, 80); button3.mousePressed(bpmKeyPlus10);
+        button4 = createButton(&#39;bpm - 10&#39;); button4.position(0, 80); button4.mousePressed(bpmKeyMinus10);
+        button5 = createButton(&#39;bpm -  1&#39;); button5.position(0, 120); button5.mousePressed(bpmKeyMinus);
+        button6 = createButton(&#39;bpm &#43;   1&#39;); button6.position(120, 120); button6.mousePressed(bpmKeyPlus);
+        
+        //slider = createSlider(30, 180, 40, 1);
+        //slider.position(200, 85);
+        //slider.style(&#39;width&#39;, &#39;80px&#39;);
     }
     
     function draw() {
-        fill(255,30);
-        //rect(0,0,width,height);
-        fill(0,50);
-        ellipse(random(0,480), random(0,200),5,5);
+        background(255);
+        //bpm = slider.value();
+        myPart.setBPM(bpm);
+        //noFill();
+        stroke(0,255);
+        //rect(400, 180, 520, 220);
+        text(&#34;bpm:&#34;, 420, 200);
+        text(bpm, 520, 200);
     }
-    
-    function mousePressed() {
-        
-    }
+    function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
+    function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
+    function playKey() { userStartAudio(); myPart.start(); myPart.loop(); }
+    function noLoopKey() { myPart.noLoop(); }
+    function bpmKeyPlus10() { bpm = bpm &#43; 10; }
+    function bpmKeyMinus10() { bpm = bpm - 10; }
+    function bpmKeyPlus() { bpm = bpm &#43; 1; }
+    function bpmKeyMinus() { bpm = bpm - 1; }
 
   
         &lt;/script&gt;
@@ -336,7 +379,6 @@
     </div>
 </div>
 
-^</p>
 
         
           <div class="blog-tags">
@@ -356,12 +398,12 @@
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://mousikobostani.github.io/post/01.p5-sketch/sound-score/" data-toggle="tooltip" data-placement="top" title="p5.js sound score">&larr; Previous Post</a>
+              <a href="https://mousikobostani.github.io/post/ena-hmerologio-gia-ta-gidia/" data-toggle="tooltip" data-placement="top" title="Ενα ημερολόγιο για τα γίδια">&larr; Previous Post</a>
             </li>
           
           
             <li class="next">
-              <a href="https://mousikobostani.github.io/post/to-xontro-mpizeli/" data-toggle="tooltip" data-placement="top" title="Το Χοντρό Μπιζέλι">Next Post &rarr;</a>
+              <a href="https://mousikobostani.github.io/post/01.p5-sketch/live-visual-at-xoriopalio/" data-toggle="tooltip" data-placement="top" title="Live Visuals @ Χωριό Παλιό">Next Post &rarr;</a>
             </li>
           
         </ul>

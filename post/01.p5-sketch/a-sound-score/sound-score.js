@@ -4,7 +4,7 @@ let pattern = [1,0,1,0,1,0,2,2,2];
 
 function preload() {
     soundFormats('mp3', 'ogg');
-    mySound = loadSound('ntefi');
+    mySound = loadSound('./ntefi');
 }
 
 function setup() {
