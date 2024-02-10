@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mousikobostani.github.io/categories/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/tags/p5.js/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/categories/p5.js/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mousikobostani.github.io/post/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/tags/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mousikobostani.github.io/post/aa-rhythm-sygkathistos/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/drepanaki/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
@@ -155,22 +173,10 @@
     <loc>https://mousikobostani.github.io/post/to-xontro-mpizeli/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/categories/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mousikobostani.github.io/tags/generative-art/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/01.p5-sketch/live-visual-at-xoriopalio/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/tags/p5.js/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/categories/p5.js/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/01.p5-sketch/sound-score-part/</loc>
@@ -1544,9 +1550,6 @@
     <loc>https://mousikobostani.github.io/post/peri-pentatonias/</loc>
     <lastmod>2017-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</loc>
-    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mousikobostani.github.io/post/ilios-palia-itia/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -1856,9 +1859,6 @@
     <loc>https://mousikobostani.github.io/post/thrace/</loc>
     <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mousikobostani.github.io/post/sygkathistos/</loc>
-    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mousikobostani.github.io/tags/random/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -2020,9 +2020,6 @@
   </url><url>
     <loc>https://mousikobostani.github.io/post/mantilatos/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</loc>
-    <lastmod>2013-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mousikobostani.github.io/post/ussul/</loc>
     <lastmod>2013-08-06T00:00:00+00:00</lastmod>

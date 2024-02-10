@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Το Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mousikobostani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>p5.js</title>
+      <link>https://mousikobostani.github.io/tags/p5.js/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/tags/p5.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ρυθμοί</title>
+      <link>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>συγκαθιστός</title>
+      <link>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</guid>
+      <description></description>
+    </item>
     <item>
       <title>τραγουδώντας-με-τον-ΚιτσοΚολιούση</title>
       <link>https://mousikobostani.github.io/tags/%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%85%CE%B4%CF%8E%CE%BD%CF%84%CE%B1%CF%82-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CE%BA%CE%B9%CF%84%CF%83%CE%BF%CE%BA%CE%BF%CE%BB%CE%B9%CE%BF%CF%8D%CF%83%CE%B7/</link>
@@ -83,13 +104,6 @@
       <link>https://mousikobostani.github.io/tags/generative-art/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://mousikobostani.github.io/tags/generative-art/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>p5.js</title>
-      <link>https://mousikobostani.github.io/tags/p5.js/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/tags/p5.js/</guid>
       <description></description>
     </item>
     <item>
@@ -919,13 +933,6 @@
       <description></description>
     </item>
     <item>
-      <title>συγκαθιστός</title>
-      <link>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/tags/%CF%83%CF%85%CE%B3%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%82/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>5tM</title>
       <link>https://mousikobostani.github.io/tags/5tm/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
@@ -1063,13 +1070,6 @@
       <link>https://mousikobostani.github.io/tags/tag-cloud/</link>
       <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://mousikobostani.github.io/tags/tag-cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ρυθμοί</title>
-      <link>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</link>
-      <pubDate>Tue, 06 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/tags/%CF%81%CF%85%CE%B8%CE%BC%CE%BF%CE%AF/</guid>
       <description></description>
     </item>
   </channel>
