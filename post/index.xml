@@ -6,13 +6,27 @@
     <description>Recent content in Posts on Το Μουσικό Μποστάνι</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mousikobostani.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Πωγωνίσιο (o ρυθμός)</title>
-      <link>https://mousikobostani.github.io/post/aa-rhythm-pogonisio/</link>
+      <title>Tekez</title>
+      <link>https://mousikobostani.github.io/post/tekez/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/tekez/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Καρσιλαμάς (o ρυθμός)</title>
+      <link>https://mousikobostani.github.io/post/aa-rhythm-karsilamas/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/aa-rhythm-pogonisio/</guid>
+      <guid>https://mousikobostani.github.io/post/aa-rhythm-karsilamas/</guid>
+      <description> Ενδεικτικά τραγούδια: Ήπειρος: Φυσούνι, Μπαζαρκάνα Μ.Ασία: Σύρε να πεις τη μανα σου Α.Θράκη: Σφαρλής, Μακεδονία: Τσουράπια Πόντος: Πιπιλομάταινα </description>
+    </item>
+    <item>
+      <title>Πωγωνίσιος (o ρυθμός)</title>
+      <link>https://mousikobostani.github.io/post/aa-rhythm-pogonisios/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/aa-rhythm-pogonisios/</guid>
       <description>Μερικές πληροφορίες που βρήκα στο διαδίκτυο :</description>
     </item>
     <item>
@@ -23,10 +37,17 @@
       <description>Μερικές πληροφορίες που βρήκα στο διαδίκτυο :&#xA;Την ονομασία του οφείλει στο ότι το βήμα του χορευτή ημικάθεται μια στο δεξιό και μια στο αριστερό πόδι. Οι συγκαθιστοί σκοποί είναι πολλοί σε κλίμακες, τρόπους και αρχιτεκτονική μελωδιών. Χορεύονται κατά ζεύγη αντικριστά με μεγάλη ποικιλία χορευτικών σχημάτων και συνοδεύονται από ενθουσιώδη επιφωνήματα.&#xA;Τον καλύτερο προσδιορισμό της λέξης ‘συγκαθιστός’ χορός ,κατά την ταπεινή μας γνώμη, τον δίνουν οι Βλάχοι, οι Γρεβενιώτες, οι Χασιώτες, κλπ περισσότερο την Πίνδο, οι οποίοι προσονομάζουν τον χορό με πληθυντικό αριθμό: «Συγκαθιστά, ή Συγκαστά’, ή και ‘Σκόρπια’.</description>
     </item>
     <item>
-      <title>Τσάμικος (o ρυθμός)</title>
-      <link>https://mousikobostani.github.io/post/aa-rhythm-tsamiko/</link>
+      <title>Συρτός (o ρυθμός)</title>
+      <link>https://mousikobostani.github.io/post/aa-rhythm-syrtos/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/aa-rhythm-tsamiko/</guid>
+      <guid>https://mousikobostani.github.io/post/aa-rhythm-syrtos/</guid>
+      <description>Συρτός και παραλλαγές </description>
+    </item>
+    <item>
+      <title>Τσάμικος (o ρυθμός)</title>
+      <link>https://mousikobostani.github.io/post/aa-rhythm-tsamikos/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mousikobostani.github.io/post/aa-rhythm-tsamikos/</guid>
       <description>Τσάμικο Τσάμικο Ηπείρου </description>
     </item>
     <item>
@@ -749,13 +770,6 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://mousikobostani.github.io/post/buselik-pesrev-kantemir/</guid>
       <description>score @ http://www.eksd.org.tr about Kantemir</description>
-    </item>
-    <item>
-      <title>Tekez</title>
-      <link>https://mousikobostani.github.io/post/tekez/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mousikobostani.github.io/post/tekez/</guid>
-      <description> </description>
     </item>
     <item>
       <title>Ya Rabbi askın ver bana</title>

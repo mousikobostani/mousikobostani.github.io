@@ -1,9 +1,9 @@
 let dum, tek, myPart;
-let dumPat = [1,0,0,0,0,0,0,0,1,0,0,0];
-let tekPat = [0,0,0,1,1,0,1,0,0,0,1,0];
+let dumPat = [1,0,0,0,1,0,0,0];
+let tekPat = [0,0,1,1,0,0,1,0];
 
 let button1, button2, button3, button4, button5, button6, button10;
-let slider, bpm = 80;
+let slider, bpm = 40;
 
 function preload() {
    
@@ -26,7 +26,7 @@ function setup() {
     myPart.addPhrase(tekPhrase);
     myPart.setBPM(40);
 
-    button10 = createButton('Tsamiko bpm:'+bpm ); button10.position(0, 20) ;
+    button10 = createButton('Pogonisio bpm:'+bpm ); button10.position(0, 20) ;
     button1 = createButton('play!'); button1.position(0, 60); button1.mousePressed(playKey);
     button2 = createButton('stop!'); button2.position(120, 60); button2.mousePressed(noLoopKey);
     button3 = createButton('bpm + 10'); button3.position(120, 90); button3.mousePressed(bpmKeyPlus10);
@@ -48,7 +48,7 @@ function draw() {
 }
 
 function updateBPM() {
-    button10 = createButton('Sygkathistos bpm:'+bpm ); button10.position(0, 20) ;
+    button10 = createButton('Pogonisio bpm:'+bpm ); button10.position(0, 20) ;
 }
 function playDum( time, playbackRate) { dum.rate(playbackRate); dum.play(time); }
 function playTek( time, playbackRate) { tek.rate(playbackRate); tek.play(time); }
